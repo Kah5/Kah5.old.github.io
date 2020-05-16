@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John W.Williams | Kelly Ann Heilman, PhD</title>
+    <link>/author/john-w.williams/</link>
+      <atom:link href="/author/john-w.williams/index.xml" rel="self" type="application/rss+xml" />
+    <description>John W.Williams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>John W.Williams</title>
+      <link>/author/john-w.williams/</link>
+    </image>
+    
+    <item>
+      <title>Strong species interactions controlled past aboveground biomass, but are lost from the modern landscape</title>
+      <link>/publication/gjam/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gjam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human activity drove the collapse of alternative stable biomes in the Midwest</title>
+      <link>/publication/multiplestablestates/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multiplestablestates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

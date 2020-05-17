@@ -5,7 +5,7 @@
     <link>https://Kah5.github.io/post/</link>
       <atom:link href="https://Kah5.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 11:13:48 -0700</lastBuildDate>
     <image>
       <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
-      <title></title>
+      <title>Welcome</title>
       <link>https://Kah5.github.io/post/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 11:13:48 -0700</pubDate>
       <guid>https://Kah5.github.io/post/welcome/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is my first blog, so here goes nothing!&lt;/p&gt;
+&lt;p&gt;I plan to use this space to share posts covering a variety of topics ranging from reflections on recent research, teaching experiences, travel reflections, and some (hopefully) useful coding and teaching resources. Here is a bit more on what to expect:&lt;/p&gt;
+&lt;h3 id=&#34;code--tutorials&#34;&gt;Code &amp;amp; tutorials:&lt;/h3&gt;
+&lt;p&gt;In my research, I have spent alot of time coding and learning new analyses, mostly in R/Rstudio. In this process, I have learned alot from forums, blogs, and other resources, and I plan to share some of this content (and hope it is useful).&lt;/p&gt;
+&lt;h3 id=&#34;research&#34;&gt;Research:&lt;/h3&gt;
+&lt;p&gt;I hope to use this space to reflect on my recent research experiences, and highlight new publications. I may also do some reflections on past field work (with alot of pictures).&lt;/p&gt;
+&lt;h3 id=&#34;travel&#34;&gt;Travel:&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve had the great privledge and opportunity to travel for both work and fun. The only time pick up my journal is during these trips, mostly so I can remember what I did, what I saw, on which trails I traveled, and where I camped. I plan to share some of these reflections here as well. Since travel has been put on hold for awhile (writing this in May 2020), I may dig up some of these old trips to share.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

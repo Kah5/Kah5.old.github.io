@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Kelly Ann Heilman, PhD</title>
-    <link>https://Kah5.github.io/categories/</link>
-      <atom:link href="https://Kah5.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://Kah5.github.io/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>

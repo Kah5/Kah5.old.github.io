@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Kelly Ann Heilman, PhD</title>
-    <link>https://Kah5.github.io/post/</link>
-      <atom:link href="https://Kah5.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 17:35:45 -0700</lastBuildDate>
     <image>
-      <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://Kah5.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Conferencing in the time of COVID-19</title>
-      <link>https://Kah5.github.io/post/esa2020/</link>
+      <link>/post/esa2020/</link>
       <pubDate>Fri, 07 Aug 2020 17:35:45 -0700</pubDate>
-      <guid>https://Kah5.github.io/post/esa2020/</guid>
+      <guid>/post/esa2020/</guid>
       <description>&lt;p&gt;I just attended the annual meeting for Ecological Society of America (ESA), my first virtual conference! While I am disappointed that I couldn’t see everyone in person and visit Salt Lake City for the first time, virtual ESA 2020 had its benefits. It also had some downsides.&lt;/p&gt;
 &lt;h3 id=&#34;the-positives&#34;&gt;The Positives&lt;/h3&gt;
 &lt;p&gt;The virtual format allowed me to  interact with and digest the content of talks more easily. I could pause and look at figures &amp;amp; equations in detail, solving the age-old problem of presenters throwing a bunch of math onto a slide and expecting the audience to digest it in ~15 seconds (mea culpa). The ability to watch talks on my own time also meant that I could take the time I needed to jot down some notes, process, and reflect on the cool science I just heard about. I was also able to ask more questions and with more detail than in-person conferences. Also, if a talk wasn’t what I’d expected, I could get up and leave in the middle, which would be quite rude in-person&amp;ndash;I promise I didn’t do this very often!&lt;/p&gt;
@@ -46,16 +46,16 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://Kah5.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Sun, 17 May 2020 11:13:48 -0700</pubDate>
-      <guid>https://Kah5.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;This is my first blog, so here goes nothing!&lt;/p&gt;
 &lt;p&gt;I plan to use this space to share posts covering a variety of topics ranging from reflections on recent research, teaching experiences, travel reflections, and some (hopefully) useful coding and teaching resources. Here is a bit more on what to expect:&lt;/p&gt;
 &lt;h3 id=&#34;code--tutorials&#34;&gt;Code &amp;amp; tutorials:&lt;/h3&gt;

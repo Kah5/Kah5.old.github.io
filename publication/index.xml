@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Kelly Ann Heilman, PhD</title>
-    <link>https://Kah5.github.io/publication/</link>
-      <atom:link href="https://Kah5.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://Kah5.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
-      <title>Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty</title>
-      <link>https://Kah5.github.io/publication/pipoforecast/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/pipoforecast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures</title>
-      <link>https://Kah5.github.io/publication/treeringco2/</link>
+      <link>/publication/treeringco2/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/treeringco2/</guid>
+      <guid>/publication/treeringco2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2</title>
-      <link>https://Kah5.github.io/publication/co2evidence/</link>
+      <link>/publication/co2evidence/</link>
       <pubDate>Fri, 23 Oct 2020 19:38:00 -0700</pubDate>
-      <guid>https://Kah5.github.io/publication/co2evidence/</guid>
+      <guid>/publication/co2evidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strong species interactions controlled past aboveground biomass, but are lost from the modern landscape</title>
-      <link>https://Kah5.github.io/publication/gjam/</link>
+      <link>/publication/gjam/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/gjam/</guid>
+      <guid>/publication/gjam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human activity drove the collapse of alternative stable biomes in the Midwest</title>
-      <link>https://Kah5.github.io/publication/multiplestablestates/</link>
+      <link>/publication/multiplestablestates/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/multiplestablestates/</guid>
+      <guid>/publication/multiplestablestates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharp savanna-forest transitions in the Midwest followed environmental gradients but are absent from the modern landscape</title>
-      <link>https://Kah5.github.io/publication/yellow_river/</link>
+      <link>/publication/yellow_river/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/yellow_river/</guid>
+      <guid>/publication/yellow_river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty</title>
+      <link>/publication/pipoforecast/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pipoforecast/</guid>
       <description></description>
     </item>
     

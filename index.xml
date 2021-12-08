@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kelly Ann Heilman, PhD</title>
-    <link>https://Kah5.github.io/</link>
-      <atom:link href="https://Kah5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Kelly Ann Heilman, PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Kelly Ann Heilman, PhD</title>
-      <link>https://Kah5.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
-      <title>Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty</title>
-      <link>https://Kah5.github.io/publication/pipoforecast/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/pipoforecast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures</title>
-      <link>https://Kah5.github.io/publication/treeringco2/</link>
+      <link>/publication/treeringco2/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/treeringco2/</guid>
+      <guid>/publication/treeringco2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2</title>
-      <link>https://Kah5.github.io/publication/co2evidence/</link>
+      <link>/publication/co2evidence/</link>
       <pubDate>Fri, 23 Oct 2020 19:38:00 -0700</pubDate>
-      <guid>https://Kah5.github.io/publication/co2evidence/</guid>
+      <guid>/publication/co2evidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laboratory of Tree Ring Reseach Department Seminar October, 2020</title>
-      <link>https://Kah5.github.io/talks/ltrr2020/</link>
+      <link>/talks/ltrr2020/</link>
       <pubDate>Wed, 14 Oct 2020 12:00:17 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/ltrr2020/</guid>
+      <guid>/talks/ltrr2020/</guid>
       <description>&lt;p&gt;Assimilating tree ring and forest inventory data to forecast future growth responses and quantify uncertainties. (Click on the upper right corner [] to get full screen)&lt;/p&gt;
 &lt;iframe width=&#34;740&#34; height=&#34;515&#34; src = https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?tid=d110d7dd-b2b7-4d24-92fb-ac54014cd566 frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; &#34;picture-in-picture&#34;&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
@@ -48,17 +40,17 @@
     
     <item>
       <title>Strong species interactions controlled past aboveground biomass, but are lost from the modern landscape</title>
-      <link>https://Kah5.github.io/publication/gjam/</link>
+      <link>/publication/gjam/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/gjam/</guid>
+      <guid>/publication/gjam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Society of Industrial and Applied Mathmatics talk 2020</title>
-      <link>https://Kah5.github.io/talks/siammpe2020/</link>
+      <link>/talks/siammpe2020/</link>
       <pubDate>Thu, 13 Aug 2020 11:00:17 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/siammpe2020/</guid>
+      <guid>/talks/siammpe2020/</guid>
       <description>&lt;p&gt;Here is my virtual talk from the Society of Industrial and Applied Mathmatics: Mathmatics of Planet Earth meeting in August 2020.&lt;/p&gt;
 &lt;iframe width=&#34;740&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/WIamLpY-GCI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
@@ -66,9 +58,9 @@
     
     <item>
       <title>ESA virtual talk August, 2020</title>
-      <link>https://Kah5.github.io/talks/esa2020/esa2020/</link>
+      <link>/talks/esa2020/esa2020/</link>
       <pubDate>Mon, 10 Aug 2020 17:06:56 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/esa2020/esa2020/</guid>
+      <guid>/talks/esa2020/esa2020/</guid>
       <description>&lt;p&gt;Check out my virtual talk from the Ecological Society of America meeting in August 2020.&lt;/p&gt;
 
 
@@ -91,16 +83,16 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
     
     <item>
       <title>Conferencing in the time of COVID-19</title>
-      <link>https://Kah5.github.io/post/esa2020/</link>
+      <link>/post/esa2020/</link>
       <pubDate>Fri, 07 Aug 2020 17:35:45 -0700</pubDate>
-      <guid>https://Kah5.github.io/post/esa2020/</guid>
+      <guid>/post/esa2020/</guid>
       <description>&lt;p&gt;I just attended the annual meeting for Ecological Society of America (ESA), my first virtual conference! While I am disappointed that I couldn’t see everyone in person and visit Salt Lake City for the first time, virtual ESA 2020 had its benefits. It also had some downsides.&lt;/p&gt;
 &lt;h3 id=&#34;the-positives&#34;&gt;The Positives&lt;/h3&gt;
 &lt;p&gt;The virtual format allowed me to  interact with and digest the content of talks more easily. I could pause and look at figures &amp;amp; equations in detail, solving the age-old problem of presenters throwing a bunch of math onto a slide and expecting the audience to digest it in ~15 seconds (mea culpa). The ability to watch talks on my own time also meant that I could take the time I needed to jot down some notes, process, and reflect on the cool science I just heard about. I was also able to ask more questions and with more detail than in-person conferences. Also, if a talk wasn’t what I’d expected, I could get up and leave in the middle, which would be quite rude in-person&amp;ndash;I promise I didn’t do this very often!&lt;/p&gt;
@@ -130,24 +122,24 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Human activity drove the collapse of alternative stable biomes in the Midwest</title>
-      <link>https://Kah5.github.io/publication/multiplestablestates/</link>
+      <link>/publication/multiplestablestates/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/multiplestablestates/</guid>
+      <guid>/publication/multiplestablestates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://Kah5.github.io/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Sun, 17 May 2020 11:13:48 -0700</pubDate>
-      <guid>https://Kah5.github.io/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>&lt;p&gt;This is my first blog, so here goes nothing!&lt;/p&gt;
 &lt;p&gt;I plan to use this space to share posts covering a variety of topics ranging from reflections on recent research, teaching experiences, travel reflections, and some (hopefully) useful coding and teaching resources. Here is a bit more on what to expect:&lt;/p&gt;
 &lt;h3 id=&#34;code--tutorials&#34;&gt;Code &amp;amp; tutorials:&lt;/h3&gt;
@@ -161,27 +153,35 @@
     
     <item>
       <title>Sharp savanna-forest transitions in the Midwest followed environmental gradients but are absent from the modern landscape</title>
-      <link>https://Kah5.github.io/publication/yellow_river/</link>
+      <link>/publication/yellow_river/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/publication/yellow_river/</guid>
+      <guid>/publication/yellow_river/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CO2 fertilization and tree growth</title>
-      <link>https://Kah5.github.io/project/project3/</link>
+      <link>/project/project3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/project/project3/</guid>
+      <guid>/project/project3/</guid>
       <description>&lt;p&gt;How do concurrent changes in CO2, precipitation, and temperature jointly affect tree ring growth at a temperate savanna-forest boundary? Specifically, does rising CO2 and water use efficiency enhance tree growth by reducing drought sensitivity, or do increased temperatures drive growth declines?&lt;/p&gt;
 &lt;p&gt;I developed Bayesian models of tree growth and water use efficiency to predict the joint response to three concurrent drivers of global environmental change: precipitation, temperature, and CO2. I also quantified how biological differences in stand structure (open canopy or closed canopy) can mediate growth and physiological responses to environmental changes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Forecasting Forest Responses</title>
-      <link>https://Kah5.github.io/project/internal-project/</link>
+      <title>Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty</title>
+      <link>/publication/pipoforecast/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/project/internal-project/</guid>
+      <guid>/publication/pipoforecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Forest Responses</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Forest response to climate changes are critical to future carbon uptake and resilience, but remain highly uncertain. Although higher temperatures and drier conditions may result in decreased carbon uptake, it may be possible to manage for stand conditions that are resilient to climate extremes.&lt;/p&gt;
 &lt;p&gt;To improve forecasts, I assimilate two large datasets in a state space modelling framework: repeat censuses from the Forest Inventory &amp;amp; Analysis and annual tree ring growth records. This approach leverages the extensive spatial network and decadal timescale of forest surveys, and the rich temporal responses to interannual climate contained in tree ring records.&lt;/p&gt;
 &lt;p&gt;Interested in hearing more? Check out the videos related to this work below:&lt;/p&gt;
@@ -213,25 +213,25 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple Stable States</title>
-      <link>https://Kah5.github.io/project/old/</link>
+      <link>/project/old/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/project/old/</guid>
+      <guid>/project/old/</guid>
       <description>&lt;p&gt;Human activity has the potential to collapse vegetation at the biome scale from one stable state to another, but well-documented instances of changes in biome stability are scarce. Demonstrating such a collapse requires evidence that vegetation had alternative states before an intensification of human activity, and that it subsequently stabilized to a single state. We reconstructed a biome-scale state shift across the U.S. upper Midwest based on historical (mid-1800’s) and contemporary (1999 - 2016) vegetation survey data. Before extensive fire suppression, logging, and land use conversion, vegetation structure and composition were bimodal with respect to the environment, but now consist of a single stable forested state that would have been unstable in the historical period. This collapse of historical vegetation carries cautionary parallels to modern multiple-stable-state systems facing anthropogenic changes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Species Interactions and Environmental gradients</title>
-      <link>https://Kah5.github.io/project/gjam/</link>
+      <link>/project/gjam/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/project/gjam/</guid>
+      <guid>/project/gjam/</guid>
       <description>&lt;p&gt;What factors determine how tree species are distributed across a landscape? Are interactions and feedbacks between species, or species responses to the environment more important constraints on aboveground biomass? Are these feedbacks and environmental responses constant over time?&lt;/p&gt;
 &lt;p&gt;Both environmental gradients and interactions between tree species can influence the geographic distribution of different species and the total biomass stored on the landscape. Thus, our ability to forecast responses to climatic changes depends on both species responses to environmental limits, and the competitive or facilitative interactions between species.&lt;/p&gt;
 &lt;p&gt;I used a Generalized Joint Attribute Modelling (GJAM) approach to quantify past (1800’s) and modern (2000’s) species responses to environmental gradients in the US Midwest, and identify strong interactions between species that are not due to common environmental sensitivities. I show that while environmental responses are relatively conserved over time, historical land use change and loss of late successional forests removed strong species interactions that historically led to high biomass forests.&lt;/p&gt;
@@ -240,9 +240,9 @@
     
     <item>
       <title>Interests</title>
-      <link>https://Kah5.github.io/interests/</link>
+      <link>/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/interests/</guid>
+      <guid>/interests/</guid>
       <description></description>
     </item>
     

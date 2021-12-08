@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent talks | Kelly Ann Heilman, PhD</title>
-    <link>https://Kah5.github.io/talks/</link>
-      <atom:link href="https://Kah5.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talks/</link>
+      <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 12:00:17 -0700</lastBuildDate>
     <image>
-      <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Recent talks</title>
-      <link>https://Kah5.github.io/talks/</link>
+      <link>/talks/</link>
     </image>
     
     <item>
       <title>Laboratory of Tree Ring Reseach Department Seminar October, 2020</title>
-      <link>https://Kah5.github.io/talks/ltrr2020/</link>
+      <link>/talks/ltrr2020/</link>
       <pubDate>Wed, 14 Oct 2020 12:00:17 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/ltrr2020/</guid>
+      <guid>/talks/ltrr2020/</guid>
       <description>&lt;p&gt;Assimilating tree ring and forest inventory data to forecast future growth responses and quantify uncertainties. (Click on the upper right corner [] to get full screen)&lt;/p&gt;
 &lt;iframe width=&#34;740&#34; height=&#34;515&#34; src = https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?tid=d110d7dd-b2b7-4d24-92fb-ac54014cd566 frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; &#34;picture-in-picture&#34;&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Society of Industrial and Applied Mathmatics talk 2020</title>
-      <link>https://Kah5.github.io/talks/siammpe2020/</link>
+      <link>/talks/siammpe2020/</link>
       <pubDate>Thu, 13 Aug 2020 11:00:17 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/siammpe2020/</guid>
+      <guid>/talks/siammpe2020/</guid>
       <description>&lt;p&gt;Here is my virtual talk from the Society of Industrial and Applied Mathmatics: Mathmatics of Planet Earth meeting in August 2020.&lt;/p&gt;
 &lt;iframe width=&#34;740&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/WIamLpY-GCI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>ESA virtual talk August, 2020</title>
-      <link>https://Kah5.github.io/talks/esa2020/esa2020/</link>
+      <link>/talks/esa2020/esa2020/</link>
       <pubDate>Mon, 10 Aug 2020 17:06:56 -0700</pubDate>
-      <guid>https://Kah5.github.io/talks/esa2020/esa2020/</guid>
+      <guid>/talks/esa2020/esa2020/</guid>
       <description>&lt;p&gt;Check out my virtual talk from the Ecological Society of America meeting in August 2020.&lt;/p&gt;
 
 
@@ -59,7 +59,7 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>

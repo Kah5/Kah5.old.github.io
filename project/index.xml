@@ -5,7 +5,7 @@
     <link>https://Kah5.github.io/project/</link>
       <atom:link href="https://Kah5.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,19 +13,9 @@
     </image>
     
     <item>
-      <title>CO2 fertilization and tree growth</title>
-      <link>https://Kah5.github.io/project/project3/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Kah5.github.io/project/project3/</guid>
-      <description>&lt;p&gt;How do concurrent changes in CO2, precipitation, and temperature jointly affect tree ring growth at a temperate savanna-forest boundary? Specifically, does rising CO2 and water use efficiency enhance tree growth by reducing drought sensitivity, or do increased temperatures drive growth declines?&lt;/p&gt;
-&lt;p&gt;I developed Bayesian models of tree growth and water use efficiency to predict the joint response to three concurrent drivers of global environmental change: precipitation, temperature, and CO2. I also quantified how biological differences in stand structure (open canopy or closed canopy) can mediate growth and physiological responses to environmental changes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Forecasting Forest Responses</title>
       <link>https://Kah5.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://Kah5.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Forest response to climate changes are critical to future carbon uptake and resilience, but remain highly uncertain. Although higher temperatures and drier conditions may result in decreased carbon uptake, it may be possible to manage for stand conditions that are resilient to climate extremes.&lt;/p&gt;
 &lt;p&gt;To improve forecasts, I assimilate two large datasets in a state space modelling framework: repeat censuses from the Forest Inventory &amp;amp; Analysis and annual tree ring growth records. This approach leverages the extensive spatial network and decadal timescale of forest surveys, and the rich temporal responses to interannual climate contained in tree ring records.&lt;/p&gt;
@@ -60,6 +50,16 @@
 &lt;video controls &gt;
   &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CO2 fertilization and tree growth</title>
+      <link>https://Kah5.github.io/project/project3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Kah5.github.io/project/project3/</guid>
+      <description>&lt;p&gt;How do concurrent changes in CO2, precipitation, and temperature jointly affect tree ring growth at a temperate savanna-forest boundary? Specifically, does rising CO2 and water use efficiency enhance tree growth by reducing drought sensitivity, or do increased temperatures drive growth declines?&lt;/p&gt;
+&lt;p&gt;I developed Bayesian models of tree growth and water use efficiency to predict the joint response to three concurrent drivers of global environmental change: precipitation, temperature, and CO2. I also quantified how biological differences in stand structure (open canopy or closed canopy) can mediate growth and physiological responses to environmental changes.&lt;/p&gt;
 </description>
     </item>
     

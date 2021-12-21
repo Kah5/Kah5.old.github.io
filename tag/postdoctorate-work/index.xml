@@ -5,7 +5,7 @@
     <link>https://Kah5.github.io/tag/postdoctorate-work/</link>
       <atom:link href="https://Kah5.github.io/tag/postdoctorate-work/index.xml" rel="self" type="application/rss+xml" />
     <description>Postdoctorate work</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Postdoctorate work</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Forecasting Forest Responses</title>
       <link>https://Kah5.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://Kah5.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Forest response to climate changes are critical to future carbon uptake and resilience, but remain highly uncertain. Although higher temperatures and drier conditions may result in decreased carbon uptake, it may be possible to manage for stand conditions that are resilient to climate extremes.&lt;/p&gt;
 &lt;p&gt;To improve forecasts, I assimilate two large datasets in a state space modelling framework: repeat censuses from the Forest Inventory &amp;amp; Analysis and annual tree ring growth records. This approach leverages the extensive spatial network and decadal timescale of forest surveys, and the rich temporal responses to interannual climate contained in tree ring records.&lt;/p&gt;

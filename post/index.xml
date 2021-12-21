@@ -24,6 +24,9 @@
 
 
 
+  
+  
+
 
 
 
@@ -37,10 +40,10 @@
 &lt;figure id=&#34;figure-agu-2021-poster&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;AGUslide.pdf&#34; data-caption=&#34;AGU 2021 poster&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://Kah5.github.io/post/agu2021/AGU_poster_2021_small_hudca36dbd37e81f331f0e1f5f0a72b0b0_1941632_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;AGU 2021 poster&#34;&gt;
 
 
-  &lt;img src=&#34;AGUslide.pdf&#34; alt=&#34;&#34;  &gt;
+  &lt;img data-src=&#34;https://Kah5.github.io/post/agu2021/AGU_poster_2021_small_hudca36dbd37e81f331f0e1f5f0a72b0b0_1941632_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2666&#34; height=&#34;1500&#34;&gt;
 &lt;/a&gt;
 
 

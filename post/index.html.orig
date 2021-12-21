@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="I enjoyed interacting with all of the AGU 2021 participants&ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!">
+  <meta name="description" content="Postdoctoral Research Associate">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://Kah5.github.io/post/agu2021/">
+  <link rel="alternate" hreflang="en-us" href="https://Kah5.github.io/post/">
 
   
 
@@ -212,12 +212,14 @@
   
 
   
+  <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="Kelly Ann Heilman, PhD">
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://Kah5.github.io/post/agu2021/">
+  <link rel="canonical" href="https://Kah5.github.io/post/">
 
   
   
@@ -236,60 +238,21 @@
   <meta property="twitter:creator" content="@kelheil">
   
   <meta property="og:site_name" content="Kelly Ann Heilman, PhD">
-  <meta property="og:url" content="https://Kah5.github.io/post/agu2021/">
-  <meta property="og:title" content="AGU 2021 Poster Presentation | Kelly Ann Heilman, PhD">
-  <meta property="og:description" content="I enjoyed interacting with all of the AGU 2021 participants&ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!"><meta property="og:image" content="https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://Kah5.github.io/post/">
+  <meta property="og:title" content="Posts | Kelly Ann Heilman, PhD">
+  <meta property="og:description" content="Postdoctoral Research Associate"><meta property="og:image" content="https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    
-      <meta property="article:published_time" content="2021-12-20T17:35:45-07:00">
-    
-    <meta property="article:modified_time" content="2021-12-20T17:35:45-07:00">
+<<<<<<< HEAD
+    <meta property="og:updated_time" content="2021-12-20T17:35:45-07:00">
+=======
+    <meta property="og:updated_time" content="2021-12-10T17:35:45-07:00">
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
   
 
   
 
 
-    
-
-
-
-
-
-
-  
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://Kah5.github.io/post/agu2021/"
-  },
-  "headline": "AGU 2021 Poster Presentation",
-  
-  "datePublished": "2021-12-20T17:35:45-07:00",
-  "dateModified": "2021-12-20T17:35:45-07:00",
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Kelly Ann Heilman, PhD",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "I enjoyed interacting with all of the AGU 2021 participants\u0026ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!"
-}
-</script>
-
-  
-
-  
 
 
   
@@ -301,7 +264,7 @@
 
 
 
-  <title>AGU 2021 Poster Presentation | Kelly Ann Heilman, PhD</title>
+  <title>Posts | Kelly Ann Heilman, PhD</title>
 
 </head>
 
@@ -642,8 +605,6 @@
 </nav>
 
 
-  <article class="article">
-
   
 
 
@@ -661,16 +622,65 @@
 
   
   
-  
-<div class="article-container pt-3">
-  <h1>AGU 2021 Poster Presentation</h1>
-
-  
-  <p class="page-subtitle">Carbon accounting of ponderosa pine forests across the interior western U. S. based on tree-ring and forest inventory data</p>
-  
-
   
     
+  
+<div class="universal-wrapper pt-3">
+  <h1>Posts</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+
+  
+
+  
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/agu2021/" >AGU 2021 Poster Presentation</a>
+    </h3>
+
+    
+    <div class="article-style">
+<<<<<<< HEAD
+      I enjoyed interacting with all of the AGU 2021 participants&ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!
+=======
+      I enjoyed interacting with all of the AGU 2021 participates&ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
 
 
 <div class="article-metadata">
@@ -684,7 +694,11 @@
     
       
     
+<<<<<<< HEAD
     Dec 20, 2021
+=======
+    Dec 10, 2021
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
   </span>
   
 
@@ -706,330 +720,288 @@
 
 </div>
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/internal-project/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>I enjoyed interacting with all of the AGU 2021 participants&ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!), and the next steps we are taking to scale these forecasts to tree and plot-level aboveground biomass (+ uncertainty) in the Interior West US.</p>
-<p>If you missed AGU, you can check out my poster here!</p>
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-<figure id="figure-agu-2021-poster">
-
-
-  <a data-fancybox="" href="/post/agu2021/AGU_poster_2021_small_hudca36dbd37e81f331f0e1f5f0a72b0b0_1941632_2000x2000_fit_lanczos_2.png" data-caption="AGU 2021 poster">
-
-
-  <img data-src="/post/agu2021/AGU_poster_2021_small_hudca36dbd37e81f331f0e1f5f0a72b0b0_1941632_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="2666" height="1500">
-</a>
-
-
-  
-  
-  <figcaption>
-    AGU 2021 poster
-  </figcaption>
-
-
-</figure>
-
-
+      
     </div>
 
     
-
-
-
-
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://Kah5.github.io/post/agu2021/&amp;text=AGU%202021%20Poster%20Presentation" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://Kah5.github.io/post/agu2021/&amp;t=AGU%202021%20Poster%20Presentation" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=AGU%202021%20Poster%20Presentation&amp;body=https://Kah5.github.io/post/agu2021/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://Kah5.github.io/post/agu2021/&amp;title=AGU%202021%20Poster%20Presentation" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=AGU%202021%20Poster%20Presentation%20https://Kah5.github.io/post/agu2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://Kah5.github.io/post/agu2021/&amp;title=AGU%202021%20Poster%20Presentation" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-    
-    
-    
-      
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-        
-        <img class="avatar mr-3 avatar-circle" src="/author/avatar_hu2351e22036cc26c54bf1981df0d13bc2_1200398_270x270_fill_q90_lanczos_center.jpg" alt="">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="https://Kah5.github.io/"></a></h5>
-        <h6 class="card-subtitle">Postdoctoral Research Associate</h6>
-        <p class="card-text">My research aims to understand and forecast the response of vegetation to multiple environmental changes from the tree to biome scales. This ecological forecasting approach allows us make predictions about future vegetation, with the overall goal of managing systems for a resilient future.</p>
-        <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/#contact" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/kelheil" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/Kah5" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/files/heilmancv.pdf" >
-        <i class="ai ai-cv"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      </div>
-    </div>
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
 
   </div>
-</article>
+  <div class="ml-3">
+    
+    
+<<<<<<< HEAD
+=======
+    
+    <a href="/post/agu2021/" >
+      <img src="/post/agu2021/featured_hu818e9d327f5a9bb959d4fd7715d9b13e_47182143_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/esa2020/" >Conferencing in the time of COVID-19</a>
+    </h3>
+
+    
+    <div class="article-style">
+      I just attended the annual meeting for Ecological Society of America (ESA), my first virtual conference! While I am disappointed that I couldn’t see everyone in person and visit Salt Lake City for the first time, virtual ESA 2020 had its benefits.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 7, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/science-policy/" >Conferencing in the time of COVID-19</a>
+    </h3>
+
+    
+    <div class="article-style">
+      I just attended the annual meeting for Ecological Society of America (ESA), my first virtual conference! While I am disappointed that I couldn’t see everyone in person and visit Salt Lake City for the first time, virtual ESA 2020 had its benefits.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 7, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/welcome/" >Welcome</a>
+    </h3>
+
+    
+    <div class="article-style">
+      What to expect here
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 17, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+
+  
+
+
+</div>
 
       
 

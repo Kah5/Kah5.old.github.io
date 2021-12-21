@@ -5,7 +5,11 @@
     <link>https://Kah5.github.io/</link>
       <atom:link href="https://Kah5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kelly Ann Heilman, PhD</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 17:35:45 -0700</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 17:35:45 -0700</lastBuildDate>
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
     <image>
       <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Kelly Ann Heilman, PhD</title>
@@ -15,11 +19,18 @@
     <item>
       <title>AGU 2021 Poster Presentation</title>
       <link>https://Kah5.github.io/post/agu2021/</link>
+<<<<<<< HEAD
       <pubDate>Mon, 20 Dec 2021 17:35:45 -0700</pubDate>
       <guid>https://Kah5.github.io/post/agu2021/</guid>
       <description>&lt;p&gt;I enjoyed interacting with all of the AGU 2021 participants&amp;ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!), and the next steps we are taking to scale these forecasts to tree and plot-level aboveground biomass (+ uncertainty) in the Interior West US.&lt;/p&gt;
 &lt;p&gt;If you missed AGU, you can check out my poster here!&lt;/p&gt;
 
+=======
+      <pubDate>Fri, 10 Dec 2021 17:35:45 -0700</pubDate>
+      <guid>https://Kah5.github.io/post/agu2021/</guid>
+      <description>&lt;p&gt;I enjoyed interacting with all of the AGU 2021 participates&amp;ndash;both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!), and the next steps we are taking to scale these forecasts to tree and plot-level aboveground biomass (+ uncertainty) in the Interior West US.&lt;/p&gt;
+&lt;p&gt;If you missed AGU, you can check out my poster here!
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
 
 
 
@@ -31,11 +42,16 @@
 
 
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
 
 
 
 
 
+<<<<<<< HEAD
 
 &lt;figure id=&#34;figure-agu-2021-poster&#34;&gt;
 
@@ -56,6 +72,14 @@
 
 &lt;/figure&gt;
 
+=======
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://Kah5.github.io/img/Heilman_ESA_2020_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+>>>>>>> 82af89267bb6864b97aa1d008f36fdcacb369b33
 </description>
     </item>
     

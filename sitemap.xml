@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://Kah5.github.io/</loc>
+    <lastmod>2022-01-27T17:35:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Kah5.github.io/post/</loc>
+    <lastmod>2022-01-27T17:35:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Kah5.github.io/post/in-the-news/</loc>
+    <lastmod>2022-01-27T17:35:45-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Kah5.github.io/author/alexis-arizpe/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -64,11 +79,6 @@
   
   <url>
     <loc>https://Kah5.github.io/author/kelly-a.-heilman/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Kah5.github.io/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -159,11 +169,6 @@
   
   <url>
     <loc>https://Kah5.github.io/post/agu2021/</loc>
-    <lastmod>2021-12-20T17:35:45-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Kah5.github.io/post/</loc>
     <lastmod>2021-12-20T17:35:45-07:00</lastmod>
   </url>
   
@@ -672,10 +677,6 @@
   
   <url>
     <loc>https://Kah5.github.io/interests/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Kah5.github.io/post/in-the-news/</loc>
   </url>
   
 </urlset>

@@ -5,12 +5,20 @@
     <link>https://Kah5.github.io/publication/</link>
       <atom:link href="https://Kah5.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Kah5.github.io/images/icon_huccf280dab276574ecd8f1c09072acb12_61809_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://Kah5.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The policy and ecology of forest‑based climate mitigation: challenges, needs, and opportunities</title>
+      <link>https://Kah5.github.io/publication/ncs/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Kah5.github.io/publication/ncs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty</title>

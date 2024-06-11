@@ -1,0 +1,122 @@
+{
+  "index.qmd": {
+    "index.html": "bb91830b"
+  },
+  "about.qmd": {
+    "about.html": "351b0a87"
+  },
+  "interests.qmd": {
+    "interests.html": "db6e5a9f"
+  },
+  "publications.qmd": {
+    "publications.html": "710c4922"
+  },
+  "publications/heilman2022.qmd": {
+    "heilman2022.html": "cdf143ad"
+  },
+  "publications/yellow_river/broderick.qmd": {
+    "broderick.html": "cc1096f3"
+  },
+  "publications/treeringfia/heilman2022.qmd": {
+    "heilman2022.html": "d4ff08ac"
+  },
+  "publications/co2evidence/index.qmd": {
+    "index.html": "867f3499"
+  },
+  "publications/co2evidence/CO2.qmd": {
+    "CO2.html": "3bd74fc8"
+  },
+  "publications/ncs/NCS.qmd": {
+    "NCS.html": "affd325f"
+  },
+  "publications/ncs/OakStress.qmd": {
+    "OakStress.html": "f1085f41"
+  },
+  "publications/treeringco2/OakWUE.qmd": {
+    "OakWUE.html": "0472ca53"
+  },
+  "publications/oakstress/OakStress.qmd": {
+    "OakStress.html": "4cac9082"
+  },
+  "publications/PinusEdulis/OakWUE.qmd": {
+    "OakWUE.html": "8acd2f8a"
+  },
+  "publications/PinusEdulis/PIED.qmd": {
+    "PIED.html": "943dc6a8"
+  },
+  "publications/TR_INV_Bioscience/FIATR.qmd": {
+    "FIATR.html": "7cb08100"
+  },
+  "posts/Welcome/index.qmd": {
+    "index.html": "5e2c4411"
+  },
+  "posts/AGU2021/index.qmd": {
+    "index.html": "ba643fb3"
+  },
+  "posts/ESA2020/index.qmd": {
+    "index.html": "3a6e8a9e"
+  },
+  "posts/KVOA news article/index.qmd": {
+    "index.html": "7a4a4812"
+  },
+  "posts/Science Policy/index.qmd": {
+    "index.html": "d7b4e9f5"
+  },
+  "posts/In the news/index.qmd": {
+    "index.html": "6cad999b"
+  },
+  "posts/HearstMedia/index.qmd": {
+    "index.html": "f7dc4be5"
+  },
+  "posts.qmd": {
+    "posts.html": "adddda9e"
+  },
+  "posts/PIED_PNAS/index.qmd": {
+    "index.html": "31063325"
+  },
+  "posts/Quarto/index.qmd": {
+    "index.html": "8d8d1ae4"
+  },
+  "talks/LTRR2020/LTRR2020.qmd": {
+    "LTRR2020.html": "57339021"
+  },
+  "talks/ESA2020/ESA2020.md": {
+    "ESA2020.html": "2d537cde"
+  },
+  "talks/SIAMMPE2020/SIAMMPE2020.rmd": {
+    "SIAMMPE2020.html": "bdcb6961"
+  },
+  "talks.qmd": {
+    "talks.html": "99208dce"
+  },
+  "posts/Ecoforecasting Award/index.qmd": {
+    "index.html": "6cb90d08"
+  },
+  "projects/GJAM/index.qmd": {
+    "index.html": "ef766306"
+  },
+  "projects/data fusion/index.qmd": {
+    "index.html": "be5cfcd9"
+  },
+  "projects/MSS/index.qmd": {
+    "index.html": "39bdae5f"
+  },
+  "projects/PIED/index.qmd": {
+    "index.html": "6493de63"
+  },
+  "talks/AGU2022/ESA2020.md": {
+    "ESA2020.html": "a0f2553e"
+  },
+  "talks/AGU2022/AGU2022.md": {
+    "AGU2022.html": "58de3bac"
+  },
+  "projects.qmd": {
+    "projects.html": "ae9d81f4"
+  },
+  "posts/State Space Model Workshop/index.qmd": {
+    "index.html": "55e3fcb2"
+  },
+  "projects/PIPO data fusion/index.qmd": {
+    "index.html": "0ee9be69"
+  }
+}

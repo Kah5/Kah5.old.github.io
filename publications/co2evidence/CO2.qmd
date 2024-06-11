@@ -1,0 +1,24 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+title: "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2"
+type: "article"
+author: Walker, A. P.; Kauwe, M. G. D.; Bastos, A.; Belmecheri, S.; Georgiou, K.; Keeling, R. F.; McMahon, S. M.; Medlyn, B. E.; Moore, D. J. P.; Norby, R. J.; Zaehle, S.; AndersonTeixeira, K. J.; Battipaglia, G.; Brienen, R. J. W.; Cabugao, K. G.; Cailleret, M.; Campbell, E.; Canadell, J. G.; Ciais, P.; Craig, M. E.; Ellsworth, D. S.; Farquhar, G. D.; Fatichi, S.; Fisher, J. B.; Frank, D. C.; Graven, H.; Gu, L.; Haverd, V.; Heilman, K.A.; Heimann, M.; Hungate, B. A.; Iversen, C. M.; Joos, F.; Jiang, M.; Keenan, T. F.; Knauer, J.; Krner, C.; Leshyk, V. O.; Leuzinger, S.; Liu, Y.; MacBean, N.; Malhi, Y.; McVicar, T. R.; Penuelas, J.; Pongratz, J.; Powell, A. S.; Riutta, T.; Sabot, M. E. B.; Schleucher, J.; Sitch, S.; Smith, W. K.; Sulman, B.; Taylor, B.; Terrer, C.; Torn, M. S.; Treseder, K. K.; Trugman, A. T.; Trumbore, S. E.; Mantgem, P. J. van; Voelker, S. L.; Whelan, M. E.; Zuidema, P. A.
+year: "2020"
+publication: "New Phytologist"
+doi: "10.1111/nph.16866"
+pdf: "pdfpapers/CO2evidence.pdf"
+categories:
+  - CO2 fertilization
+  - review
+  - water use efficiency
+---
+
+## Citation
+
+> Walker, A. P.; Kauwe, M. G. D.; Bastos, A.; Belmecheri, S.; Georgiou, K.; Keeling, R. F.; McMahon, S. M.; Medlyn, B. E.; Moore, D. J. P.; Norby, R. J.; Zaehle, S.; Anderson‐Teixeira, K. J.; Battipaglia, G.; Brienen, R. J. W.; Cabugao, K. G.; Cailleret, M.; Campbell, E.; Canadell, J. G.; Ciais, P.; Craig, M. E.; Ellsworth, D. S.; Farquhar, G. D.; Fatichi, S.; Fisher, J. B.; Frank, D. C.; Graven, H.; Gu, L.; Haverd, V.; Heilman, K.A. Heimann, M.; Hungate, B. A.; Iversen, C. M.; Joos, F.; Jiang, M.; Keenan, T. F.; Knauer, J.; Körner, C.; Leshyk, V. O.; Leuzinger, S.; Liu, Y.; MacBean, N.; Malhi, Y.; McVicar, T. R.; Penuelas, J.; Pongratz, J.; Powell, A. S.; Riutta, T.; Sabot, M. E. B.; Schleucher, J.; Sitch, S.; Smith, W. K.; Sulman, B.; Taylor, B.; Terrer, C.; Torn, M. S.; Treseder, K. K.; Trugman, A. T.; Trumbore, S. E.; Mantgem, P. J. van; Voelker, S. L.; Whelan, M. E.; Zuidema, P. A. 2020 Integrating the Evidence for a Terrestrial Carbon Sink Caused by Increasing Atmospheric CO2. New Phytologist. https://doi.org/10.1111/nph.16866.
+
+## Abstract:
+
+Atmospheric carbon dioxide concentration (\[CO2\]) is increasing, which increases leaf-scale photosynthesis and intrinsic water-use efficiency. These direct responses have the potential to increase plant growth, vegetation biomass, and soil organic matter; transferring carbon from the atmosphere into terrestrial ecosystems (a carbon sink). A substantial global terrestrial carbon sink would slow the rate of \[CO2\] increase and thus climate change. However, ecosystem CO2 responses are complex or confounded by concurrent changes in multiple agents of global change and evidence for a \[CO2\]-driven terrestrial carbon sink can appear contradictory. Here we synthesize theory and broad, multidisciplinary evidence for the effects of increasing \[CO2\] (iCO2) on the global terrestrial carbon sink. Evidence suggests a substantial increase in global photosynthesis since pre-industrial times. Established theory, supported by experiments, indicates that iCO2 is likely responsible for about half of the increase. Global carbon budgeting, atmospheric data, and forest inventories indicate a historical carbon sink, and these apparent iCO2 responses are high in comparison to experiments and predictions from theory. Plant mortality and soil carbon iCO2 responses are highly uncertain. In conclusion, a range of evidence supports a positive terrestrial carbon sink in response to iCO2, albeit with uncertain magnitude and strong suggestion of a role for additional agents of global change.
+
+------------------------------------------------------------------------

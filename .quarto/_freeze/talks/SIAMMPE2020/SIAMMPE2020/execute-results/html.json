@@ -1,0 +1,15 @@
+{
+  "hash": "2fc9f1d7578ce8a98fec853120bfd220",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"SIAM virtual talk August, 2020\"\nsubtitle: \"Society of Industrial and Applied Mathmatics talk 2020\" \nauthors:\n- Kelly A. Heilman\ntags: []\ncategories: []\ndate: 2020-08-10T17:06:56-07:00\nlastmod: 2020-10-23T17:06:56-07:00\nfeatured: true\ndraft: false\n---\n\n\n\n\nHere is my virtual talk from the Society of Industrial and Applied Mathmatics: Mathmatics of Planet Earth meeting in August 2020.\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

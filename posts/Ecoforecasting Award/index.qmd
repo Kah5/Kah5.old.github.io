@@ -1,0 +1,22 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "ESA Ecoforecasting Award 2022"
+subtitle: ""
+summary: ""
+author: Kelly Heilman 
+tags: []
+categories: []
+date: 2022-09-20T17:35:45-07:00
+lastmod: 2022-09-20T17:35:45-07:00
+featured: false
+draft: false
+---
+
+I am incredibly excited and honored to announce that our 2022 manuscript in Global Change Biology was selected as winner of the 2022 ESA Ecological Forecasting Outstanding Publication Award!
+
+This award is presented by the ESA Statistical Ecology section ([more information on the award is here](https://www.esa.org/stats/awards/ecological-forecasting-outstanding-publication-award/)).
+
+[Check out EFI's blog post here](https://ecoforecast.org/congratulations-to-kelly-heilman-on-the-2022-esa-ecological-forecasting-award/)
+
+![](Heilman2-768x1024.jpeg)

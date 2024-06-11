@@ -1,0 +1,6 @@
+---
+title: "News and Blog Posts"
+listing: 
+  contents: posts
+  sort: "date desc"
+---

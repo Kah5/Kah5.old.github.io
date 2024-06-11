@@ -1,0 +1,15 @@
+---
+title: Growth responses to climate across species range
+summary: Past Research
+tags:
+- Postdoctorate work
+date: "2024-06-03T00:00:00Z"
+---
+
+Many biodiversity studies that estimate the impact of climate change on species relay on spatial occurrence data and "climate envelope modelling," which assume that a species or populations will respond to temporal changes in climate according to species-level climate responses inferred from spatial occurrences. In this project, we use a range-wide network of tree-ring time series data from Pinyon Pine (*Pinus edulis*) to show that individual-scale responses in growth are opposite in sign to species-scale responses inferred from occurrence data and spatial climate variation.
+
+With Dr. Margaret Evans, Sharmila Dey, and John Tipton, we built Bayesian models of annual tree ring growth to estimate climate sensitivity across Pinus edulis's species range, using tree cores sampled from \> 1500 trees in the USDA Forest Service Forest Inventory and Analysis program plots in Arizona, New Mexico, Utah, and Colorado.
+
+This work revealed a transient risk of extinction for this species, as most of the distribution of Pinus edulis experienced growth declines under hotter annual temperatures, despite a positive relationship between average growth and spatial variation in temperature, and positive effect of temperature on the cool edge of the distribution, estimated from occurance. This risk of extinction may require evolutionary change of individual-scale climate tolerances for a species to persist (evolutionary rescue).
+
+![](/posts/PIED_PNAS/PJfullmoon.jpg)

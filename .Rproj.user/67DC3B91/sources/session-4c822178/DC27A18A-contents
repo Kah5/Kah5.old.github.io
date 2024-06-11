@@ -1,0 +1,31 @@
+---
+title: "Kelly Ann Heilman"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Kah5
+      
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kelly-heilman-0989bb56/
+   
+    - text: Gmail
+      href: mailto:kellyannheilman@gmail.com
+    - text: USDA Email
+      href: mailto:Kelly.Heilman@usda.gov
+
+---
+
+Kelly Heilman is a postdoctoral research scientist with ORAU/USDA Forest Service Northern Research Station FIA.
+
+## Education
+
+University of Notre Dame | Indiana
+PhD in Biological Sciences | 2020
+
+Kenyon College | Ohio
+B.A in Biology, Environmental Studies Minor | 2012
+---

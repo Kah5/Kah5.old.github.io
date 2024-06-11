@@ -1,0 +1,32 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Workshop & Tutorial: State-Space Model for tree ring data in NFIs"
+subtitle: ""
+summary: ""
+author: Kelly Heilman 
+tags: []
+categories: []
+date: 2023-11-20T17:35:45-07:00
+lastmod: 2023-11-20T17:35:45-07:00
+featured: false
+draft: false
+---
+
+This past month, Margaret Evans, Andria Dawson, Ceci Martinez and I co-hosted a workshop in Tucson with \~ 40 participants from across North America. The workshop was aimed at demoing our updated version of a state-space model that fuses tree ring and diameter data from forest inventory data, and coordinating on efforts to combine these two datatypes in national forest inventories. This workshop was funded by a NSF Macrosystems ECA award---sending huge thank you to NSF for making this possible!
+
+We developed a tutorial that uses R/Rstudio and STAN to show the process of fitting these models, and participants attempted to include their own data into the modelling approach.
+
+The tutorial code is up [on github here](https://github.com/Kah5/FIA_TR_fusion_tutorial)---please contact me if you want an example dataset to work with.
+
+I also learned a lot about how to improve this modelling approach---more updates to come soon!
+
+It was also fun introducing new and old collaborators and friends to Tucson! We toured the Laboratory of Tree Ring Research, ate lots of local food--including El Charro, and even did some Mescal sampling.
+
+![The workshop participants at El Charro at the end of the week. Photo: Genaro Gutierrez](Arizona_Wrksp.jpg)
+
+![Bristlecone Pine section during LTRR tour. Photo: Kelly Heilman](bristlecone.jpeg)
+
+![Participants get a tour of the Laboratory of Tree Ring Resaerch. Photo: Kelly Heilman](LTRRlobby.jpeg)
+
+![Participants learning about Fire History research at LTRR. Photo: Kelly Heilman](LTRR%20tour.jpeg)

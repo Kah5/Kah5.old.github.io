@@ -1,0 +1,11 @@
+---
+pagetitle: "Projects"
+toc: false
+listing:
+    contents: "projects/*/**.qmd"
+    template: gallery.ejs
+    categories: true
+---
+
+::: {#articles}
+:::

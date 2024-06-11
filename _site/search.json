@@ -1,0 +1,394 @@
+[
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Research Intersts",
+    "section": "",
+    "text": "Forest Ecology\n\nMuch of my research focuses on forecasting the responses of forest (and temperate savanna) systems to ongoing and future environmental changes. Understanding the fate of these systems in the future is critical to preserving the myriad of ecosystem services that forests provide, including carbon uptake and sequestration, biodiversity, and biophysical feedbacks. My research aims to understand and forecast how environmental drivers and ecological feedbacks within forest systems interact to promote carbon storage, as increased carbon storage can feedback an mitigate some of the effects of future climate change. I have explored the relative roles of species interactions , fire disturbance vegetation-feedbacks within savanna-forest systems, and how forest structure modifies tree sensitivity to climate and response to increased atmospheric CO2.\n\nEnvironmental Change\n\nEcological systems face extensive environmental changes, including climate change, rising atmospheric CO2, changing fire regimes, and land use changes. My research is motivated by the need to forecast how ecological systems will respond to these concurrent changes, and potentially mitigate some of the worst effects. To do this, I look to past responses of forests to environmental changes in order to inform predictions of the future.\nSpecifically, I quantify past responses of tree growth to rising CO2 and concurrent changes in climate over the 20th century using tree rings. We find that while rising CO2 may have a small positive effect on tree growth, this is cancelled out by a drastic decrease in tree growth in response to a warmer future. I have also explored the effects of past climate and vegetation-disturbance feedbacks, quantifying the subsequent land-use driven collapse of alternative stable states at the temperate savanna-forest boundary. Within the ecoregion scale, I quantified the relative roles that environmental gradients and species interactions play in determining species aboveground biomass distribution, allowing us to better predict changes in biomass due to both climatic change, and land-use driven the loss of species interactions.\n\nEcological Forecasting\n\nWe are currently facing and will continue to face drastic environmental changes that will undoubtedly change the functioning of our societal and natural ecosystems. While predicting how future systems will respond is critical, high uncertainty about future forecasts remains. Ecological forecasting allows us to understand the processes affecting ecosystem response, quantify the contribution of current/past processes on ecosystem response (with associated uncertainties), and based on that relationship predict system responses to future environmental change (with associated uncertainties).\nThe process of making ecological forecasts will help us understand the range of future responses of ecological systems, quantify which aspects of the future are highly uncertain, and inform management decisions to promote resiliency. In my post-doctoral research, I am fusing tree-ring and forest inventory data to make forecasts about forest responses to climate change, and to identify forest management strategies (changes in forest stocking density, average tree size, etc.) that maximize resilience to extreme climate conditions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Kelly Ann Heilman, PhD",
+    "section": "",
+    "text": "My research aims to understand and forecast the response of vegetation to complex and interacting environmental changes. I take an ecological forecasting approach to account for uncertainties and predict how future ecosystems and their services will respond to a multitude of environmental changes, with the overall goal of managing ecological systems for a resilient future."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Kelly Ann Heilman, PhD",
+    "section": "",
+    "text": "My research aims to understand and forecast the response of vegetation to complex and interacting environmental changes. I take an ecological forecasting approach to account for uncertainties and predict how future ecosystems and their services will respond to a multitude of environmental changes, with the overall goal of managing ecological systems for a resilient future."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Kelly Ann Heilman, PhD",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Notre Dame\nPhD in Biological Sciences, 2020\n\n\nKenyon College\nB.A in Biology, Environmental Studies Minor, 2012\n\n\n\n\nResearch & Skills:\n\nR \nBayesian stats \nforest growth modelling \nGit \n\n\n\n\nPersonal Interests:\n\ntrail running \nvolleball \ntravel \npottery"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kelly Ann Heilman",
+    "section": "",
+    "text": "Kelly Heilman is a postdoctoral research scientist with ORAU/USDA Forest Service Northern Research Station FIA."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kelly Ann Heilman",
+    "section": "Education",
+    "text": "Education\nUniversity of Notre Dame | Indiana PhD in Biological Sciences | 2020\nKenyon College | Ohio B.A in Biology, Environmental Studies Minor | 2012"
+  },
+  {
+    "objectID": "talks/SIAMMPE2020/SIAMMPE2020.html",
+    "href": "talks/SIAMMPE2020/SIAMMPE2020.html",
+    "title": "SIAM virtual talk August, 2020",
+    "section": "",
+    "text": "Here is my virtual talk from the Society of Industrial and Applied Mathmatics: Mathmatics of Planet Earth meeting in August 2020."
+  },
+  {
+    "objectID": "talks/ESA2020/ESA2020.html",
+    "href": "talks/ESA2020/ESA2020.html",
+    "title": "ESA virtual talk August, 2020",
+    "section": "",
+    "text": "Check out my virtual talk from the Ecological Society of America meeting in August 2020."
+  },
+  {
+    "objectID": "projects/PIPO data fusion/index.html",
+    "href": "projects/PIPO data fusion/index.html",
+    "title": "Forecasting Ponderosa Pine Forest Responses",
+    "section": "",
+    "text": "Forest response to climate changes are critical to future carbon uptake and resilience, but remain highly uncertain. Although higher temperatures and drier conditions may result in decreased carbon uptake, it may be possible to manage for stand conditions that are resilient to climate extremes.\nTo improve forecasts, I assimilate two large datasets in a state space modelling framework: repeat censuses from the Forest Inventory & Analysis and annual tree ring growth records. This approach leverages the extensive spatial network and decadal timescale of forest surveys, and the rich temporal responses to interannual climate contained in tree ring records.\nInterested in hearing more? Check out the videos related to this work below:\nCheck out an outreach video we made for display at the Laboratory of Tree Ring Research:"
+  },
+  {
+    "objectID": "projects/MSS/index.html",
+    "href": "projects/MSS/index.html",
+    "title": "Multiple Stable States",
+    "section": "",
+    "text": "Human activity has the potential to collapse vegetation at the biome scale from one stable state to another, but well-documented instances of changes in biome stability are scarce. Demonstrating such a collapse requires evidence that vegetation had alternative states before an intensification of human activity, and that it subsequently stabilized to a single state. We reconstructed a biome-scale state shift across the U.S. upper Midwest based on historical (mid-1800’s) and contemporary (1999 - 2016) vegetation survey data. Before extensive fire suppression, logging, and land use conversion, vegetation structure and composition were bimodal with respect to the environment, but now consist of a single stable forested state that would have been unstable in the historical period. This collapse of historical vegetation carries cautionary parallels to modern multiple-stable-state systems facing anthropogenic changes."
+  },
+  {
+    "objectID": "publications/yellow_river/broderick.html",
+    "href": "publications/yellow_river/broderick.html",
+    "title": "Sharp Savanna-forest Transitions in the Midwest Followed Environmental Gradients but are Absent from the Modern Landscape",
+    "section": "",
+    "text": "Broderick, C.M., McLachlan, J.S., Heilman, K. A., Patterson, T., Peters, J. A. (2018). Sharp savanna-forest transitions in the Midwest followed environmental gradients but are absent from the modern landscape. American Midland Naturalist."
+  },
+  {
+    "objectID": "publications/yellow_river/broderick.html#citation",
+    "href": "publications/yellow_river/broderick.html#citation",
+    "title": "Sharp Savanna-forest Transitions in the Midwest Followed Environmental Gradients but are Absent from the Modern Landscape",
+    "section": "",
+    "text": "Broderick, C.M., McLachlan, J.S., Heilman, K. A., Patterson, T., Peters, J. A. (2018). Sharp savanna-forest transitions in the Midwest followed environmental gradients but are absent from the modern landscape. American Midland Naturalist."
+  },
+  {
+    "objectID": "publications/yellow_river/broderick.html#abstract",
+    "href": "publications/yellow_river/broderick.html#abstract",
+    "title": "Sharp Savanna-forest Transitions in the Midwest Followed Environmental Gradients but are Absent from the Modern Landscape",
+    "section": "Abstract",
+    "text": "Abstract\nHistorically, closed eastern forests transitioned into open savannas and prairies in the U.S. Midwest, but this transition is poorly understood. To investigate the eastern boundary of the prairie-forest ecotone, we conducted a case study of historic and modern vegetation patterns of the Yellow River watershed in northwest Indiana. Historic vegetation came from the Public Land Survey notes collected in the early 1800s, whereas modern vegetation came from the Forest Inventory Analysis and USGS National Land Cover Database. We mapped vegetation data using GIS to reconstruct the region’s past and current forest composition and structure. We also mapped climate, topography, and soil composition across the watershed to investigate the relationship between historic vegetation and environmental gradients. We found a sharp transition in the presettlement forest structure and composition, with dense deciduous forests in the eastern portion of our study area and open oak savannas in the west. The savanna ecosystem dominated in sandy well-drained soils and was at a slightly lower elevation than the adjacent closed forest. Modest environmental changes accompanied major vegetation changes in the past, which might suggest fire and hydrological patterns helped maintain the sharp ecotone. By contrast the modern forest shows no difference in tree density and composition across the watershed, which is consistent with major land use and hydrology changes in the watershed since settlement. On the modern landscape, land that was historically closed forest now has higher agricultural productivity compared to land that was historically savanna, whereas the historic savanna currently supports more mesic forest. These results suggest the environmental gradient continues to subtly shape the landscape. Though land use change has largely removed the closed mixed hardwood forests and oak savannas from this area, a better understanding of the historic vegetation and the conditions that supported it can help inform land management and restoration, as well as reveal ecological processes that drive vegetation transitions."
+  },
+  {
+    "objectID": "publications/co2evidence/CO2.html",
+    "href": "publications/co2evidence/CO2.html",
+    "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2",
+    "section": "",
+    "text": "Walker, A. P.; Kauwe, M. G. D.; Bastos, A.; Belmecheri, S.; Georgiou, K.; Keeling, R. F.; McMahon, S. M.; Medlyn, B. E.; Moore, D. J. P.; Norby, R. J.; Zaehle, S.; Anderson‐Teixeira, K. J.; Battipaglia, G.; Brienen, R. J. W.; Cabugao, K. G.; Cailleret, M.; Campbell, E.; Canadell, J. G.; Ciais, P.; Craig, M. E.; Ellsworth, D. S.; Farquhar, G. D.; Fatichi, S.; Fisher, J. B.; Frank, D. C.; Graven, H.; Gu, L.; Haverd, V.; Heilman, K.A. Heimann, M.; Hungate, B. A.; Iversen, C. M.; Joos, F.; Jiang, M.; Keenan, T. F.; Knauer, J.; Körner, C.; Leshyk, V. O.; Leuzinger, S.; Liu, Y.; MacBean, N.; Malhi, Y.; McVicar, T. R.; Penuelas, J.; Pongratz, J.; Powell, A. S.; Riutta, T.; Sabot, M. E. B.; Schleucher, J.; Sitch, S.; Smith, W. K.; Sulman, B.; Taylor, B.; Terrer, C.; Torn, M. S.; Treseder, K. K.; Trugman, A. T.; Trumbore, S. E.; Mantgem, P. J. van; Voelker, S. L.; Whelan, M. E.; Zuidema, P. A. 2020 Integrating the Evidence for a Terrestrial Carbon Sink Caused by Increasing Atmospheric CO2. New Phytologist. https://doi.org/10.1111/nph.16866."
+  },
+  {
+    "objectID": "publications/co2evidence/CO2.html#citation",
+    "href": "publications/co2evidence/CO2.html#citation",
+    "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2",
+    "section": "",
+    "text": "Walker, A. P.; Kauwe, M. G. D.; Bastos, A.; Belmecheri, S.; Georgiou, K.; Keeling, R. F.; McMahon, S. M.; Medlyn, B. E.; Moore, D. J. P.; Norby, R. J.; Zaehle, S.; Anderson‐Teixeira, K. J.; Battipaglia, G.; Brienen, R. J. W.; Cabugao, K. G.; Cailleret, M.; Campbell, E.; Canadell, J. G.; Ciais, P.; Craig, M. E.; Ellsworth, D. S.; Farquhar, G. D.; Fatichi, S.; Fisher, J. B.; Frank, D. C.; Graven, H.; Gu, L.; Haverd, V.; Heilman, K.A. Heimann, M.; Hungate, B. A.; Iversen, C. M.; Joos, F.; Jiang, M.; Keenan, T. F.; Knauer, J.; Körner, C.; Leshyk, V. O.; Leuzinger, S.; Liu, Y.; MacBean, N.; Malhi, Y.; McVicar, T. R.; Penuelas, J.; Pongratz, J.; Powell, A. S.; Riutta, T.; Sabot, M. E. B.; Schleucher, J.; Sitch, S.; Smith, W. K.; Sulman, B.; Taylor, B.; Terrer, C.; Torn, M. S.; Treseder, K. K.; Trugman, A. T.; Trumbore, S. E.; Mantgem, P. J. van; Voelker, S. L.; Whelan, M. E.; Zuidema, P. A. 2020 Integrating the Evidence for a Terrestrial Carbon Sink Caused by Increasing Atmospheric CO2. New Phytologist. https://doi.org/10.1111/nph.16866."
+  },
+  {
+    "objectID": "publications/co2evidence/CO2.html#abstract",
+    "href": "publications/co2evidence/CO2.html#abstract",
+    "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2",
+    "section": "Abstract:",
+    "text": "Abstract:\nAtmospheric carbon dioxide concentration ([CO2]) is increasing, which increases leaf-scale photosynthesis and intrinsic water-use efficiency. These direct responses have the potential to increase plant growth, vegetation biomass, and soil organic matter; transferring carbon from the atmosphere into terrestrial ecosystems (a carbon sink). A substantial global terrestrial carbon sink would slow the rate of [CO2] increase and thus climate change. However, ecosystem CO2 responses are complex or confounded by concurrent changes in multiple agents of global change and evidence for a [CO2]-driven terrestrial carbon sink can appear contradictory. Here we synthesize theory and broad, multidisciplinary evidence for the effects of increasing [CO2] (iCO2) on the global terrestrial carbon sink. Evidence suggests a substantial increase in global photosynthesis since pre-industrial times. Established theory, supported by experiments, indicates that iCO2 is likely responsible for about half of the increase. Global carbon budgeting, atmospheric data, and forest inventories indicate a historical carbon sink, and these apparent iCO2 responses are high in comparison to experiments and predictions from theory. Plant mortality and soil carbon iCO2 responses are highly uncertain. In conclusion, a range of evidence supports a positive terrestrial carbon sink in response to iCO2, albeit with uncertain magnitude and strong suggestion of a role for additional agents of global change."
+  },
+  {
+    "objectID": "publications/TR_INV_Bioscience/FIATR.html",
+    "href": "publications/TR_INV_Bioscience/FIATR.html",
+    "title": "The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2.",
+    "section": "",
+    "text": "Evans, M.K.,DeRose, R. J., Klesse, S., Girardin, M. P., Heilman, K.A., Alexander, M.R., Arsenault, A., Babst, F., Bouchard, M., Cahoon, S. M. P., Campbell, E., Dietze, M.C., Duchesne, L., Frank, D.C., Giebink, C.L., Gomez-Guerrero, A., Gutiérrez García, G., Villela Gaytán, S.A., Edward H. Hogg, E.H., Metsaranta, J., Ols, C., Rayback, S. A., Reid, A., Ricker, M., Schaberg, P. G., Shaw, J. D., Sullivan, P. F. The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2. 2021. Bioscience. https://doi.org/10.1093/biosci/biab119"
+  },
+  {
+    "objectID": "publications/TR_INV_Bioscience/FIATR.html#citation",
+    "href": "publications/TR_INV_Bioscience/FIATR.html#citation",
+    "title": "The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2.",
+    "section": "",
+    "text": "Evans, M.K.,DeRose, R. J., Klesse, S., Girardin, M. P., Heilman, K.A., Alexander, M.R., Arsenault, A., Babst, F., Bouchard, M., Cahoon, S. M. P., Campbell, E., Dietze, M.C., Duchesne, L., Frank, D.C., Giebink, C.L., Gomez-Guerrero, A., Gutiérrez García, G., Villela Gaytán, S.A., Edward H. Hogg, E.H., Metsaranta, J., Ols, C., Rayback, S. A., Reid, A., Ricker, M., Schaberg, P. G., Shaw, J. D., Sullivan, P. F. The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2. 2021. Bioscience. https://doi.org/10.1093/biosci/biab119"
+  },
+  {
+    "objectID": "publications/TR_INV_Bioscience/FIATR.html#abstract",
+    "href": "publications/TR_INV_Bioscience/FIATR.html#abstract",
+    "title": "The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2.",
+    "section": "Abstract:",
+    "text": "Abstract:\nTree-ring time series provide long-term, annually resolved information on the growth of trees. When sampled in a systematic context, tree-ring data can be scaled to estimate the forest carbon capture and storage of landscapes, biomes, and—ultimately—the globe. A systematic effort to sample tree rings in national forest inventories would yield unprecedented temporal and spatial resolution of forest carbon dynamics and help resolve key scientific uncertainties, which we highlight in terms of evidence for forest greening (enhanced growth) versus browning (reduced growth, increased mortality). We describe jump-starting a tree-ring collection across the continent of North America, given the commitments of Canada, the United States, and Mexico to visit forest inventory plots, along with existing legacy collections. Failing to do so would be a missed opportunity to help chart an evidence-based path toward meeting national commitments to reduce net greenhouse gas emissions, urgently needed for climate stabilization and repair."
+  },
+  {
+    "objectID": "publications/treeringfia/heilman2022.html",
+    "href": "publications/treeringfia/heilman2022.html",
+    "title": "Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty",
+    "section": "",
+    "text": "Heilman, K. A., Dietze, M. C., Arizpe, A. A., Aragon, J., Gray, A., Shaw, J. D., Finley, A. O., Klesse, S., DeRose, R. J., & Evans, M. E. K. (2022). Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty. Global Change Biology, 28(7), 2442–2460. https://doi.org/10.1111/gcb.16038"
+  },
+  {
+    "objectID": "publications/treeringfia/heilman2022.html#citation",
+    "href": "publications/treeringfia/heilman2022.html#citation",
+    "title": "Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty",
+    "section": "",
+    "text": "Heilman, K. A., Dietze, M. C., Arizpe, A. A., Aragon, J., Gray, A., Shaw, J. D., Finley, A. O., Klesse, S., DeRose, R. J., & Evans, M. E. K. (2022). Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty. Global Change Biology, 28(7), 2442–2460. https://doi.org/10.1111/gcb.16038"
+  },
+  {
+    "objectID": "publications/treeringfia/heilman2022.html#abstract",
+    "href": "publications/treeringfia/heilman2022.html#abstract",
+    "title": "Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty",
+    "section": "Abstract",
+    "text": "Abstract\nRobust ecological forecasting of tree growth under future climate conditions is critical to anticipate future forest carbon storage and flux. Here, we apply three ingredients of ecological forecasting that are key to improving forecast skill: data fusion, confronting model predictions with new data, and partitioning forecast uncertainty. Specifically, we present the first fusion of tree-ring and forest inventory data within a Bayesian state-space model at a multi-site, regional scale, focusing on Pinus ponderosa var. brachyptera in the southwestern US. Leveraging the complementarity of these two data sources, we parsed the ecological complexity of tree growth into the effects of climate, tree size, stand density, site quality, and their interactions, and quantified uncertainties associated with these effects. New measurements of trees, an ongoing process in forest inventories, were used to confront forecasts of tree diameter with observations, and evaluate alternative tree growth models. We forecasted tree diameter and increment in response to an ensemble of climate change projections, and separated forecast uncertainty into four different causes: initial conditions, parameters, climate drivers, and process error. We found a strong negative effect of fall–spring maximum temperature, and a positive effect of water-year precipitation on tree growth. Furthermore, tree vulnerability to climate stress increases with greater competition, with tree size, and at poor sites. Under future climate scenarios, we forecast increment declines of 22%–117%, while the combined effect of climate and size-related trends results in a 56%–91% decline. Partitioning of forecast uncertainty showed that diameter forecast uncertainty is primarily caused by parameter and initial conditions uncertainty, but increment forecast uncertainty is mostly caused by process error and climate driver uncertainty. This fusion of tree-ring and forest inventory data lays the foundation for robust ecological forecasting of aboveground biomass and carbon accounting at tree, plot, and regional scales, including iterative improvement of model skill."
+  },
+  {
+    "objectID": "posts/Quarto/index.html",
+    "href": "posts/Quarto/index.html",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "",
+    "text": "After several years of sporadically updating my website using Hugo and Academic hugo, I decided the past framework was too difficult to keep up with and started off with Quarto, which seems much more user friendly, with the preview options. I really liked the design and customization I had with my old website, so I hope to continue to customize my website with Quarto."
+  },
+  {
+    "objectID": "posts/Quarto/index.html#finally-caved-and-started-from-scratch-ish-with-quarto",
+    "href": "posts/Quarto/index.html#finally-caved-and-started-from-scratch-ish-with-quarto",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "",
+    "text": "After several years of sporadically updating my website using Hugo and Academic hugo, I decided the past framework was too difficult to keep up with and started off with Quarto, which seems much more user friendly, with the preview options. I really liked the design and customization I had with my old website, so I hope to continue to customize my website with Quarto."
+  },
+  {
+    "objectID": "posts/Quarto/index.html#getting-to-know-quatro",
+    "href": "posts/Quarto/index.html#getting-to-know-quatro",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "Getting to know Quatro",
+    "text": "Getting to know Quatro"
+  },
+  {
+    "objectID": "posts/Quarto/index.html#messing-around-using-old-content",
+    "href": "posts/Quarto/index.html#messing-around-using-old-content",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "Messing around & using old content",
+    "text": "Messing around & using old content"
+  },
+  {
+    "objectID": "posts/Quarto/index.html#migrating-old-blog-posts",
+    "href": "posts/Quarto/index.html#migrating-old-blog-posts",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "Migrating old blog posts",
+    "text": "Migrating old blog posts"
+  },
+  {
+    "objectID": "posts/Quarto/index.html#migrating-publications",
+    "href": "posts/Quarto/index.html#migrating-publications",
+    "title": "Migrating my website from Academic Hugo to Quarto",
+    "section": "Migrating publications",
+    "text": "Migrating publications"
+  },
+  {
+    "objectID": "posts/Ecoforecasting Award/index.html",
+    "href": "posts/Ecoforecasting Award/index.html",
+    "title": "ESA Ecoforecasting Award 2022",
+    "section": "",
+    "text": "I am incredibly excited and honored to announce that our 2022 manuscript in Global Change Biology was selected as winner of the 2022 ESA Ecological Forecasting Outstanding Publication Award!\nThis award is presented by the ESA Statistical Ecology section (more information on the award is here).\nCheck out EFI’s blog post here"
+  },
+  {
+    "objectID": "posts/Welcome/index.html",
+    "href": "posts/Welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is my first blog, so here goes nothing!\nI plan to use this space to share posts covering a variety of topics ranging from reflections on recent research, teaching experiences, travel reflections, and some (hopefully) useful coding and teaching resources. Here is a bit more on what to expect:\n\nCode & tutorials:\nIn my research, I have spent alot of time coding and learning new analyses, mostly in R/Rstudio. In this process, I have learned alot from forums, blogs, and other resources, and I plan to share some of this content (and hope it is useful).\n\n\nResearch:\nI hope to use this space to reflect on my recent research experiences, and highlight new publications. I may also do some reflections on past field work (with alot of pictures).\n\n\nTravel:\nI’ve had the great privledge and opportunity to travel for both work and fun. The only time pick up my journal is during these trips, mostly so I can remember what I did, what I saw, on which trails I traveled, and where I camped. I plan to share some of these reflections here as well. Since travel has been put on hold for awhile (writing this in May 2020), I may dig up some of these old trips to share."
+  },
+  {
+    "objectID": "posts/KVOA news article/index.html",
+    "href": "posts/KVOA news article/index.html",
+    "title": "KVOA Tucson feature on our new paper in Global Change Biology!",
+    "section": "",
+    "text": "Dr. Margaret Evans and I had chance to catch up with Destiny Quinn, an achor for KVOA Tucson news to talk more about our recent paper in Global Change Biology! Check out the feature here:\nCheck out the feature and video here\nThe Global Change Biology paper is linked here. or contact me for a pdf."
+  },
+  {
+    "objectID": "posts/AGU2021/index.html",
+    "href": "posts/AGU2021/index.html",
+    "title": "AGU 2021 Poster Presentation",
+    "section": "",
+    "text": "I enjoyed interacting with all of the AGU 2021 participants–both in-person and virtual! I presented a poster on Tuesday on some of my work fusing tree ring and forest inventory data in a Bayesian state-space model framework to forecast tree diameter and diameter increment in ponderosa pine forests in Arizona (accepted in Global Change Biology, keep an eye out for it soon!), and the next steps we are taking to scale these forecasts to tree and plot-level aboveground biomass (+ uncertainty) in the Interior West US.\nIf you missed AGU, you can check out my poster here!"
+  },
+  {
+    "objectID": "posts/ESA2020/index.html",
+    "href": "posts/ESA2020/index.html",
+    "title": "Conferencing in the time of COVID-19",
+    "section": "",
+    "text": "I just attended the annual meeting for Ecological Society of America (ESA), my first virtual conference! While I am disappointed that I couldn’t see everyone in person and visit Salt Lake City for the first time, virtual ESA 2020 had its benefits. It also had some downsides.\n\nThe Positives\nThe virtual format allowed me to interact with and digest the content of talks more easily. I could pause and look at figures & equations in detail, solving the age-old problem of presenters throwing a bunch of math onto a slide and expecting the audience to digest it in ~15 seconds (mea culpa). The ability to watch talks on my own time also meant that I could take the time I needed to jot down some notes, process, and reflect on the cool science I just heard about. I was also able to ask more questions and with more detail than in-person conferences. Also, if a talk wasn’t what I’d expected, I could get up and leave in the middle, which would be quite rude in-person–I promise I didn’t do this very often!\n\n\nThe Negatives\nHowever, virtual conferences come with some disadvantages. In particular, I had a lot of trouble accessing the synchronous live Q & A sessions, and I eventually gave up on this. I think that it will be hard to replace the interactions and networking that happens at in-person conferences, but hopefully we can come up with more creative solutions. I was disappointed that many people submitting only slides for the talks, which (to be honest) I haven’t taken the time to look though many of these yet. I understand that there may be some barriers to recording a talk–listening to my voice on video is one of my least favorite things, and it took a few tries to record–but the videos are more compelling, give way more information than just your slides, and you will reach a wider audience. Also, though the online format really lends itself to asking and answering questions, I was also disappointed at how few questions were asked on many of the talks I viewed. Perhaps some of these downsides can be improved upon, especially for conferences later this year which have more time switch to a virtual format, invest in hosting platforms, and develop new ways for us to interact in a COVID-19 world.\n\n\nWill Covid-19 change conferences for the better?\nShortcomings aside, we should all give major thanks to the organizing committee, who turned ESA into a virtual conference on a short time-frame. Transitioning to all-virtual conferences is certainly a change for most of us, but I hope this experience will make future conferences more accessible to all, less fossil-fuel intensive (by reducing travel), and provide a diversity of ways to interact with other scientists.\nAnother upside of virtual conferences is that I now have a recorded research talk to share with the world. If you missed ESA, you can check out my talk here!"
+  },
+  {
+    "objectID": "posts/State Space Model Workshop/index.html",
+    "href": "posts/State Space Model Workshop/index.html",
+    "title": "Workshop & Tutorial: State-Space Model for tree ring data in NFIs",
+    "section": "",
+    "text": "This past month, Margaret Evans, Andria Dawson, Ceci Martinez and I co-hosted a workshop in Tucson with ~ 40 participants from across North America. The workshop was aimed at demoing our updated version of a state-space model that fuses tree ring and diameter data from forest inventory data, and coordinating on efforts to combine these two datatypes in national forest inventories. This workshop was funded by a NSF Macrosystems ECA award—sending huge thank you to NSF for making this possible!\nWe developed a tutorial that uses R/Rstudio and STAN to show the process of fitting these models, and participants attempted to include their own data into the modelling approach.\nThe tutorial code is up on github here—please contact me if you want an example dataset to work with.\nI also learned a lot about how to improve this modelling approach—more updates to come soon!\nIt was also fun introducing new and old collaborators and friends to Tucson! We toured the Laboratory of Tree Ring Research, ate lots of local food–including El Charro, and even did some Mescal sampling.\n\n\n\nThe workshop participants at El Charro at the end of the week. Photo: Genaro Gutierrez\n\n\n\n\n\nBristlecone Pine section during LTRR tour. Photo: Kelly Heilman\n\n\n\n\n\nParticipants get a tour of the Laboratory of Tree Ring Resaerch. Photo: Kelly Heilman\n\n\n\n\n\nParticipants learning about Fire History research at LTRR. Photo: Kelly Heilman"
+  },
+  {
+    "objectID": "posts/In the news/index.html",
+    "href": "posts/In the news/index.html",
+    "title": "Press coverage on our new paper in Global Change Biology!",
+    "section": "",
+    "text": "I had the chance to catch up with journalist Mikayla Kelley to talk more about our recent paper in Global Change Biology! Check out the press release here:\nCheck out the press release here\nThe Global Change Biology paper is linked here. or contact me for a pdf."
+  },
+  {
+    "objectID": "posts/PIED_PNAS/index.html",
+    "href": "posts/PIED_PNAS/index.html",
+    "title": "New Paper out in PNAS & NSF Coverage",
+    "section": "",
+    "text": "I am so happy we can share that our manuscript documenting climate sensitivity across the entire range of Pinyon pine (Pinus edulis) is out now in PNAS!\nThis is a project I have been working on since 2020 with lead co-authors Dr. Margaret Evans, and Sharmila Dey, a student at Harvard Unversity. Sharmila began working in the Laboratory of Tree Ring Research on this project as as high school student, and we worked with coauthors to develop Bayesian models of tree ring growth across the range of Pinus edulis.\nCheck out the manuscript here: https://www.pnas.org/doi/10.1073/pnas.2315700121\nThe National Science Foundation (NSF) wrote up a nice piece about this work here: ” Widely used climate theory doesn’t ‘ring’ true, according to new tree data”-- We love a good tree ring pun in the title!\n\n\n\nPinyon Juniper Woodlands of New Mexico in Full Moon"
+  },
+  {
+    "objectID": "posts/HearstMedia/index.html",
+    "href": "posts/HearstMedia/index.html",
+    "title": "Earth Day feature on our research linking tree ring and forest inventory data!",
+    "section": "",
+    "text": "Dr. Margaret Evans and I had chance to catch up with Mark Albert, at Hearst media, to talk about our work “Forecasting Our Future”. John Shaw (USDA Forest Service) is also featured in this piece, and he had a chance to bring Mark and the film crew out into the field! This piece was featured as a part of the primetime Earth day special nationwide at Hearst affiliate stations.\nCheck out the feature and video here\nThe Global Change Biology paper is linked here. or contact me for a pdf."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "ESA virtual talk August, 2020\n\n\nAssimilation of tree ring and forest inventory data to forecast future growth responses of Pinus Ponderosa\n\n\n\n\n\n\n\n\nAug 10, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nSIAM virtual talk August, 2020\n\n\nSociety of Industrial and Applied Mathmatics talk 2020\n\n\n\n\n\n\n\n\nAug 10, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/oakstress/OakStress.html",
+    "href": "publications/oakstress/OakStress.html",
+    "title": "The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance.",
+    "section": "",
+    "text": "Novick, K., Jo, I., D’Orangeville, L., Benson, M. Au, T.F., Barnes, M., Denham, S., Fei, S. Heilman, K.A., Hwang, T., Keyser, T., Maxwell, J., Miniat, C., McLachlan, J.S., Pederson, N., Wang, L., Wood, J. D., P. Phillips, R.P. The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance. 2022 Bioscience. https://doi.org/10.1093/biosci/biab135."
+  },
+  {
+    "objectID": "publications/oakstress/OakStress.html#citation",
+    "href": "publications/oakstress/OakStress.html#citation",
+    "title": "The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance.",
+    "section": "",
+    "text": "Novick, K., Jo, I., D’Orangeville, L., Benson, M. Au, T.F., Barnes, M., Denham, S., Fei, S. Heilman, K.A., Hwang, T., Keyser, T., Maxwell, J., Miniat, C., McLachlan, J.S., Pederson, N., Wang, L., Wood, J. D., P. Phillips, R.P. The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance. 2022 Bioscience. https://doi.org/10.1093/biosci/biab135."
+  },
+  {
+    "objectID": "publications/oakstress/OakStress.html#abstract",
+    "href": "publications/oakstress/OakStress.html#abstract",
+    "title": "The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance.",
+    "section": "Abstract:",
+    "text": "Abstract:\nThe oak (Quercus) species of eastern North America are declining in abundance, threatening the many socioecological benefits they provide. We discuss the mechanisms responsible for their loss, many of which are rooted in the prevailing view that oaks are drought tolerant. We then synthesize previously published data to comprehensively review the drought response strategies of eastern US oaks, concluding that whether or not eastern oaks are drought tolerant depends firmly on the metric of success. Although the anisohydric strategy of oaks sometimes confers a gas exchange and growth advantage, it exposes oaks to damaging hydraulic failure, such that oaks are just as or more likely to perish during drought than neighboring species. Consequently, drought frequency is not a strong predictor of historic patterns of oak abundance, although long-term climate and fire frequency are strongly correlated with declines in oak dominance. The oaks’ ability to survive drought may become increasingly difficult in a drier future."
+  },
+  {
+    "objectID": "publications/PinusEdulis/PIED.html",
+    "href": "publications/PinusEdulis/PIED.html",
+    "title": "Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts.",
+    "section": "",
+    "text": "Evans, M.E., Dey, Sharmila M.N., Heilman, K.A., Tipton, J.R., DeRose, R.J., Klesse, S., Schulz, E.L., Shaw, J.D.,Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts. 2024 Proceedings of the National Academy of Sciences. www.pnas.org/doi/10.1073/pnas.2315700121"
+  },
+  {
+    "objectID": "publications/PinusEdulis/PIED.html#citation",
+    "href": "publications/PinusEdulis/PIED.html#citation",
+    "title": "Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts.",
+    "section": "",
+    "text": "Evans, M.E., Dey, Sharmila M.N., Heilman, K.A., Tipton, J.R., DeRose, R.J., Klesse, S., Schulz, E.L., Shaw, J.D.,Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts. 2024 Proceedings of the National Academy of Sciences. www.pnas.org/doi/10.1073/pnas.2315700121"
+  },
+  {
+    "objectID": "publications/PinusEdulis/PIED.html#abstract",
+    "href": "publications/PinusEdulis/PIED.html#abstract",
+    "title": "Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts.",
+    "section": "Abstract:",
+    "text": "Abstract:\nGiven the importance of climate in shaping species’ geographic distributions, climate change poses an existential threat to biodiversity. Climate envelope modeling, the pre- dominant approach used to quantify this threat, presumes that individuals in populations respond to climate variability and change according to species-level responses inferred from spatial occurrence data—such that individuals at the cool edge of a species’ dis- tribution should benefit from warming (the “leading edge”), whereas individuals at the warm edge should suffer (the “trailing edge”). Using 1,558 tree-ring time series of an aridland pine (Pinus edulis) collected at 977 locations across the species’ distribution, we found that trees everywhere grow less in warmer-than-average and drier-than-average years. Ubiquitous negative temperature sensitivity indicates that individuals across the entire distribution should suffer with warming—the entire distribution is a trailing edge. Species-level responses to spatial climate variation are opposite in sign to individual-scale responses to time-varying climate for approximately half the species’ distribution with respect to temperature and the majority of the species’ distribution with respect to precipitation. These findings, added to evidence from the literature for scale-dependent climate responses in hundreds of species, suggest that correlative, equilibrium-based range forecasts may fail to accurately represent how individuals in populations will be impacted by changing climate. A scale-dependent view of the impact of climate change on biodiversity highlights the transient risk of extinction hidden inside climate envelope forecasts and the importance of evolution in rescuing species from extinction whenever local climate variability and change exceeds individual-scale climate tolerances."
+  },
+  {
+    "objectID": "publications/ncs/NCS.html",
+    "href": "publications/ncs/NCS.html",
+    "title": "The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities.",
+    "section": "",
+    "text": "Giebink, C.L., Domke, G.M., Fisher, R.A., Moore, D.J.P., , DeRose, J.D., Evans, M.E.K. The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities. 2022. . https://doi.org/10.1007/s11104-022-05315-6 2022."
+  },
+  {
+    "objectID": "publications/ncs/NCS.html#citation",
+    "href": "publications/ncs/NCS.html#citation",
+    "title": "The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities.",
+    "section": "",
+    "text": "Giebink, C.L., Domke, G.M., Fisher, R.A., Moore, D.J.P., , DeRose, J.D., Evans, M.E.K. The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities. 2022. . https://doi.org/10.1007/s11104-022-05315-6 2022."
+  },
+  {
+    "objectID": "publications/ncs/NCS.html#abstract",
+    "href": "publications/ncs/NCS.html#abstract",
+    "title": "The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities.",
+    "section": "Abstract:",
+    "text": "Abstract:"
+  },
+  {
+    "objectID": "publications/ncs/NCS.html#great-hope-is-being-placed-in-the-ability-of-forest-ecosystems-to-contribute-to-greenhouse-gas-ghg-emission-reduction-targets-to-limit-global-warming.-many-nations-plan-to-rely-on-forest-based-climate-mitigation-activities-to-create-additional-and-long-term-carbon-sequestration.-here-we-take-a-critical-look-at-the-state-of-the-policy-and-ecology-surrounding-forest-based-natural-climate-solutions-ncs-with-a-focus-on-temperate-forests-of-the-united-states-us.-we-first-provide-a-high-level-overview-of-carbon-accounting-including-key-concepts-used-in-the-monitoring-reporting-and-verification-of-forest-based-ncs.-second-we-provide-a-high-level-overview-of-forest-carbon-dynamics-including-pools-and-fluxes-and-drivers-of-their-change.-we-then-identify-gaps-in-the-current-systems-of-ghg-accounting-and-between-current-ambitions-and-basic-forest-ecology.-improved-use-of-data-in-models-provides-a-path-forward-to-better-assessment-and-anticipation-of-forest-based-climate-mitigation.-we-illustrate-this-with-the-creation-of-a-climate-sensitive-forestry-model-using-tree-ring-time-series-data.-this-climate-sensitive-forest-simulator-will-improve-planning-of-site-level-climate-mitigation-activities-in-the-us-by-providing-more-realistic-expectations-of-the-carbon-sequestration-potential-of-forests-undergoing-climate-change.-our-review-highlights-the-sobering-complexity-and-uncertainty-surrounding-forest-carbon-dynamics-along-with-the-need-to-improve-carbon-accounting.-if-we-are-to-expect-forests-to-play-the-significant-emissions-reduction-role-that-is-currently-planned-we-should-view-immediate-emissions-reductions-as-critical-to-preserve-the-climate-mitigation-capacity-of-forest-ecosystems.",
+    "href": "publications/ncs/NCS.html#great-hope-is-being-placed-in-the-ability-of-forest-ecosystems-to-contribute-to-greenhouse-gas-ghg-emission-reduction-targets-to-limit-global-warming.-many-nations-plan-to-rely-on-forest-based-climate-mitigation-activities-to-create-additional-and-long-term-carbon-sequestration.-here-we-take-a-critical-look-at-the-state-of-the-policy-and-ecology-surrounding-forest-based-natural-climate-solutions-ncs-with-a-focus-on-temperate-forests-of-the-united-states-us.-we-first-provide-a-high-level-overview-of-carbon-accounting-including-key-concepts-used-in-the-monitoring-reporting-and-verification-of-forest-based-ncs.-second-we-provide-a-high-level-overview-of-forest-carbon-dynamics-including-pools-and-fluxes-and-drivers-of-their-change.-we-then-identify-gaps-in-the-current-systems-of-ghg-accounting-and-between-current-ambitions-and-basic-forest-ecology.-improved-use-of-data-in-models-provides-a-path-forward-to-better-assessment-and-anticipation-of-forest-based-climate-mitigation.-we-illustrate-this-with-the-creation-of-a-climate-sensitive-forestry-model-using-tree-ring-time-series-data.-this-climate-sensitive-forest-simulator-will-improve-planning-of-site-level-climate-mitigation-activities-in-the-us-by-providing-more-realistic-expectations-of-the-carbon-sequestration-potential-of-forests-undergoing-climate-change.-our-review-highlights-the-sobering-complexity-and-uncertainty-surrounding-forest-carbon-dynamics-along-with-the-need-to-improve-carbon-accounting.-if-we-are-to-expect-forests-to-play-the-significant-emissions-reduction-role-that-is-currently-planned-we-should-view-immediate-emissions-reductions-as-critical-to-preserve-the-climate-mitigation-capacity-of-forest-ecosystems.",
+    "title": "The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities.",
+    "section": "Great hope is being placed in the ability of forest ecosystems to contribute to greenhouse gas (GHG) emission reduction targets to limit global warming. Many nations plan to rely on forest-based climate mitigation activities to create additional and long-term carbon sequestration. Here, we take a critical look at the state of the policy and ecology surrounding forest-based natural climate solutions (NCS), with a focus on temperate forests of the United States (US). We first provide a high-level overview of carbon accounting, including key concepts used in the monitoring, reporting and verification of forest-based NCS. Second, we provide a high-level overview of forest carbon dynamics, including pools and fluxes, and drivers of their change. We then identify gaps in the current systems of GHG accounting, and between current ambitions and basic forest ecology. Improved use of data in models provides a path forward to better assessment and anticipation of forest-based climate mitigation. We illustrate this with the creation of a climate-sensitive forestry model, using tree-ring time series data. This climate-sensitive forest simulator will improve planning of site-level climate mitigation activities in the US by providing more realistic expectations of the carbon sequestration potential of forests undergoing climate change. Our review highlights the sobering complexity and uncertainty surrounding forest carbon dynamics, along with the need to improve carbon accounting. If we are to expect forests to play the significant emissions reduction role that is currently planned, we should view immediate emissions reductions as critical to preserve the climate mitigation capacity of forest ecosystems.",
+    "text": "Great hope is being placed in the ability of forest ecosystems to contribute to greenhouse gas (GHG) emission reduction targets to limit global warming. Many nations plan to rely on forest-based climate mitigation activities to create additional and long-term carbon sequestration. Here, we take a critical look at the state of the policy and ecology surrounding forest-based natural climate solutions (NCS), with a focus on temperate forests of the United States (US). We first provide a high-level overview of carbon accounting, including key concepts used in the monitoring, reporting and verification of forest-based NCS. Second, we provide a high-level overview of forest carbon dynamics, including pools and fluxes, and drivers of their change. We then identify gaps in the current systems of GHG accounting, and between current ambitions and basic forest ecology. Improved use of data in models provides a path forward to better assessment and anticipation of forest-based climate mitigation. We illustrate this with the creation of a climate-sensitive forestry model, using tree-ring time series data. This climate-sensitive forest simulator will improve planning of site-level climate mitigation activities in the US by providing more realistic expectations of the carbon sequestration potential of forests undergoing climate change. Our review highlights the sobering complexity and uncertainty surrounding forest carbon dynamics, along with the need to improve carbon accounting. If we are to expect forests to play the significant emissions reduction role that is currently planned, we should view immediate emissions reductions as critical to preserve the climate mitigation capacity of forest ecosystems."
+  },
+  {
+    "objectID": "publications/treeringco2/OakWUE.html",
+    "href": "publications/treeringco2/OakWUE.html",
+    "title": "Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures.",
+    "section": "",
+    "text": "Heilman, K.A., Trouet, V., Pederson, N., Belmecheri, S., Berke, M.A., McLachlan, J.S., Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures. 2021. Oecologia. https://doi.org/10.1007/s00442-021-04892-0."
+  },
+  {
+    "objectID": "publications/treeringco2/OakWUE.html#citation",
+    "href": "publications/treeringco2/OakWUE.html#citation",
+    "title": "Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures.",
+    "section": "",
+    "text": "Heilman, K.A., Trouet, V., Pederson, N., Belmecheri, S., Berke, M.A., McLachlan, J.S., Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures. 2021. Oecologia. https://doi.org/10.1007/s00442-021-04892-0."
+  },
+  {
+    "objectID": "publications/treeringco2/OakWUE.html#abstract",
+    "href": "publications/treeringco2/OakWUE.html#abstract",
+    "title": "Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures.",
+    "section": "Abstract:",
+    "text": "Abstract:\nBoth increases in temperature and changes in precipitation may limit future tree growth, but rising atmospheric CO2 could offset some of these stressors through increased plant Water Use Efficiency (WUE). The net balance between the negative impacts of climate change and positive effects of CO2 on tree growth is crucial for ecotones, where increased climate stress could drive mortality and shifts in range. Here, we quantify the effects of climate, stand structure, and rising CO2 on both annual tree-ring growth increment and intrinsic WUE (iWUE) at a savanna-forest boundary in the Upper Midwest United States. Taking a Bayesian hierarchical modelling approach, we find that plant iWUE increased by ~ 16–23% over the course of the twentieth century, but on average, tree-ring growth increments do not significantly increase. Consistent with higher iWUE under increased CO2 and recent wetting, we observe a decrease in sensitivity of tree growth to annual precipitation, leading to ~ 35–41% higher growth under dry conditions compared to trees of similar size in the past. However, an emerging interaction between summer maximum temperatures and annual precipitation diminishes the water-savings benefit under hot and dry conditions. This decrease in precipitation sensitivity, and the interaction between temperature and precipitation are strongest in open canopy microclimates, suggesting that stand structure may modulate response to future changes. Overall, while higher iWUE may provide some water savings benefits to growth under normal drought conditions, near-term future temperature increases combined with drought events could drive growth declines of about 50%."
+  },
+  {
+    "objectID": "projects/GJAM/index.html",
+    "href": "projects/GJAM/index.html",
+    "title": "Species Interactions and Environmental gradients",
+    "section": "",
+    "text": "What factors determine how tree species are distributed across a landscape? Are interactions and feedbacks between species, or species responses to the environment more important constraints on aboveground biomass? Are these feedbacks and environmental responses constant over time?\nBoth environmental gradients and interactions between tree species can influence the geographic distribution of different species and the total biomass stored on the landscape. Thus, our ability to forecast responses to climatic changes depends on both species responses to environmental limits, and the competitive or facilitative interactions between species.\nI used a Generalized Joint Attribute Modelling (GJAM) approach to quantify past (1800’s) and modern (2000’s) species responses to environmental gradients in the US Midwest, and identify strong interactions between species that are not due to common environmental sensitivities. I show that while environmental responses are relatively conserved over time, historical land use change and loss of late successional forests removed strong species interactions that historically led to high biomass forests."
+  },
+  {
+    "objectID": "projects/PIED/index.html",
+    "href": "projects/PIED/index.html",
+    "title": "Growth responses to climate across species range",
+    "section": "",
+    "text": "Many biodiversity studies that estimate the impact of climate change on species relay on spatial occurrence data and “climate envelope modelling,” which assume that a species or populations will respond to temporal changes in climate according to species-level climate responses inferred from spatial occurrences. In this project, we use a range-wide network of tree-ring time series data from Pinyon Pine (Pinus edulis) to show that individual-scale responses in growth are opposite in sign to species-scale responses inferred from occurrence data and spatial climate variation.\nWith Dr. Margaret Evans, Sharmila Dey, and John Tipton, we built Bayesian models of annual tree ring growth to estimate climate sensitivity across Pinus edulis’s species range, using tree cores sampled from &gt; 1500 trees in the USDA Forest Service Forest Inventory and Analysis program plots in Arizona, New Mexico, Utah, and Colorado.\nThis work revealed a transient risk of extinction for this species, as most of the distribution of Pinus edulis experienced growth declines under hotter annual temperatures, despite a positive relationship between average growth and spatial variation in temperature, and positive effect of temperature on the cool edge of the distribution, estimated from occurance. This risk of extinction may require evolutionary change of individual-scale climate tolerances for a species to persist (evolutionary rescue)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Kelly Ann Heilman",
+    "section": "",
+    "text": "Growth responses to climate across species range\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Ponderosa Pine Forest Responses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecies Interactions and Environmental gradients\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple Stable States\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Kelly Ann Heilman",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n\n\n\n  \n    Evans, M.E., Dey, Sharmila M.N., Heilman, K.A., Tipton, J.R., DeRose, R.J., Klesse, S., Schulz, E.L., Shaw, J.D.\n    Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts.\n    (2024)\n    Proceedings of the National Academy of Sciences\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n    \n       Code\n    \n    \n\n    \n    \n       Dataset\n    \n    \n\n  \n\n  \n    Heilman, K.A., Dietze, M.C., Arizpe, A.A., Aragon, J., Gray, A., Shaw, J.D., Finley, A.O., Klesse, S., DeRose, R.J., & Evans, M.E.K.\n    Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty\n    (2022)\n    Global Change Biology\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n    \n       Code\n    \n    \n\n    \n    \n       Dataset\n    \n    \n\n  \n\n  \n    Novick, K., Jo, I., D'Orangeville, L., Benson, M. Au, T.F., Barnes, M., Denham, S., Fei, S. Heilman, K.A., Hwang, T., Keyser, T., Maxwell, J., Miniat, C., McLachlan, J.S., Pederson, N., Wang, L., Wood, J. D., P. Phillips, R.P.\n    The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance.\n    (2022)\n    Bioscience\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n\n    \n\n  \n\n  \n    Evans, M.K.,DeRose, R. J., Klesse, S.,  Girardin, M. P., Heilman, K.A., Alexander, M.R.,  Arsenault, A., Babst, F., Bouchard, M., Cahoon, S. M. P., Campbell, E., Dietze, M.C., Duchesne, L., Frank, D.C., Giebink, C.L., Gomez-Guerrero, A., Gutiérrez García, G., Villela Gaytán, S.A., Edward H. Hogg, E.H., Metsaranta, J., Ols, C., Rayback, S. A., Reid, A., Ricker, M., Schaberg, P. G., Shaw, J. D.,  Sullivan, P. F.\n    The case for adding tree rings to North America’s national forest inventories: an essential tool to guide drawdown of atmospheric CO2.\n    (2022)\n    Bioscience\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n\n    \n\n  \n\n  \n    Giebink, C.L., Domke, G.M., Fisher, R.A., Moore, D.J.P.,  \\textbf{Heilman, K.A.}, DeRose, J.D., Evans, M.E.K.\n    The policy and ecology of forest-based climate mitigation: challenges, needs, and opportunities.\n    (2022)\n    Plant & Soil\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n\n    \n\n  \n\n  \n    Heilman, K.A.,  Trouet, V.,  Pederson, N., Belmecheri, S.,  Berke, M.A., McLachlan, J.S.\n    Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures.\n    (2021)\n    Oecologia\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n    \n       Code\n    \n    \n\n    \n    \n       Dataset\n    \n    \n\n  \n\n  \n    Walker, A. P.; Kauwe, M. G. D.; Bastos, A.; Belmecheri, S.; Georgiou, K.; Keeling, R. F.; McMahon, S. M.; Medlyn, B. E.; Moore, D. J. P.; Norby, R. J.; Zaehle, S.; AndersonTeixeira, K. J.; Battipaglia, G.; Brienen, R. J. W.; Cabugao, K. G.; Cailleret, M.; Campbell, E.; Canadell, J. G.; Ciais, P.; Craig, M. E.; Ellsworth, D. S.; Farquhar, G. D.; Fatichi, S.; Fisher, J. B.; Frank, D. C.; Graven, H.; Gu, L.; Haverd, V.; Heilman, K.A.; Heimann, M.; Hungate, B. A.; Iversen, C. M.; Joos, F.; Jiang, M.; Keenan, T. F.; Knauer, J.; Krner, C.; Leshyk, V. O.; Leuzinger, S.; Liu, Y.; MacBean, N.; Malhi, Y.; McVicar, T. R.; Penuelas, J.; Pongratz, J.; Powell, A. S.; Riutta, T.; Sabot, M. E. B.; Schleucher, J.; Sitch, S.; Smith, W. K.; Sulman, B.; Taylor, B.; Terrer, C.; Torn, M. S.; Treseder, K. K.; Trugman, A. T.; Trumbore, S. E.; Mantgem, P. J. van; Voelker, S. L.; Whelan, M. E.; Zuidema, P. A.\n    Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO2\n    (2020)\n    New Phytologist\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n\n    \n\n  \n\n  \n    Broderick, C.M., McLachlan, J.S., Heilman, K. A., Patterson, T., Peters,  J. A.\n    Sharp Savanna-forest Transitions in the Midwest Followed Environmental Gradients but are Absent from the Modern Landscape\n    (2018)\n    Global Change Biology\n\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n\n    \n    \n     PDF\n    \n    \n\n    \n\n    \n\n    \n\n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News and Blog Posts",
+    "section": "",
+    "text": "New Paper out in PNAS & NSF Coverage\n\n\n\n\n\n\n\n\n\n\n\nJun 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop & Tutorial: State-Space Model for tree ring data in NFIs\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2023\n\n\nKelly Heilman\n\n\n\n\n\n\n\n\n\n\n\n\nESA Ecoforecasting Award 2022\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2022\n\n\nKelly Heilman\n\n\n\n\n\n\n\n\n\n\n\n\nKVOA Tucson feature on our new paper in Global Change Biology!\n\n\nFuture forests will have smaller trees and soak up less carbon, study suggests\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nEarth Day feature on our research linking tree ring and forest inventory data!\n\n\nForecasting Our Future\n\n\n\n\n\n\n\n\nFeb 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nPress coverage on our new paper in Global Change Biology!\n\n\nFuture forests will have smaller trees and soak up less carbon, study suggests\n\n\n\n\n\n\n\n\nJan 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAGU 2021 Poster Presentation\n\n\nCarbon accounting of ponderosa pine forests across the interior western U. S. based on tree-ring and forest inventory data\n\n\n\n\n\n\n\n\nDec 20, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nConferencing in the time of COVID-19\n\n\nESA 2020\n\n\n\n\n\n\n\n\nAug 7, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\nMy first blog post\n\n\n\n\n\n\n\n\nMay 17, 2020\n\n\n\n\n\n\nNo matching items"
+  }
+]

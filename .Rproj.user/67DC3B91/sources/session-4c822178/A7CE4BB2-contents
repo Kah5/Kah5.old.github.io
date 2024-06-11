@@ -1,0 +1,27 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+title: "Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts."
+type: "article"
+author: Evans, M.E., Dey, Sharmila M.N., Heilman, K.A., Tipton, J.R., DeRose, R.J., Klesse, S., Schulz, E.L., Shaw, J.D.
+year: "2024"
+publication: "Proceedings of the National Academy of Sciences"
+doi: "www.pnas.org/doi/10.1073/pnas.2315700121"
+pdf: "evans-et-al-2024-PNAS.pdf"
+code: "https://github.com/dey3434/PIED-Project"
+data: "https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/EvansDeyHeilman_PinusEdulis_ringwidth_2024"
+categories:
+  - Pinus Edulis
+  - Tree Ring
+  - Western US
+  - Drought Stress
+  - Growth
+  - Forecasting
+---
+
+## Citation
+
+> Evans, M.E., Dey, Sharmila M.N., Heilman, K.A., Tipton, J.R., DeRose, R.J., Klesse, S., Schulz, E.L., Shaw, J.D.,Tree rings reveal the transient risk of extinction hidden inside climate envelope forecasts. 2024 Proceedings of the National Academy of Sciences. www.pnas.org/doi/10.1073/pnas.2315700121
+
+## Abstract:
+
+Given the importance of climate in shaping species' geographic distributions, climate change poses an existential threat to biodiversity. Climate envelope modeling, the pre- dominant approach used to quantify this threat, presumes that individuals in populations respond to climate variability and change according to species-level responses inferred from spatial occurrence data---such that individuals at the cool edge of a species' dis- tribution should benefit from warming (the "leading edge"), whereas individuals at the warm edge should suffer (the "trailing edge"). Using 1,558 tree-ring time series of an aridland pine (Pinus edulis) collected at 977 locations across the species' distribution, we found that trees everywhere grow less in warmer-than-average and drier-than-average years. Ubiquitous negative temperature sensitivity indicates that individuals across the entire distribution should suffer with warming---the entire distribution is a trailing edge. Species-level responses to spatial climate variation are opposite in sign to individual-scale responses to time-varying climate for approximately half the species' distribution with respect to temperature and the majority of the species' distribution with respect to precipitation. These findings, added to evidence from the literature for scale-dependent climate responses in hundreds of species, suggest that correlative, equilibrium-based range forecasts may fail to accurately represent how individuals in populations will be impacted by changing climate. A scale-dependent view of the impact of climate change on biodiversity highlights the transient risk of extinction hidden inside climate envelope forecasts and the importance of evolution in rescuing species from extinction whenever local climate variability and change exceeds individual-scale climate tolerances.

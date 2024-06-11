@@ -1,0 +1,18 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "LTRR Seminar, University of Arizona"
+subtitle: "A naive guide"
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 2020-02-10T17:35:45-07:00
+lastmod: 2020-02-10T17:35:45-07:00
+featured: false
+draft: true
+---
+
+Assimilating tree ring and forest inventory data to forecast future growth responses and quantify uncertainties.
+
+{\< video https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?tid=d110d7dd-b2b7-4d24-92fb-ac54014cd566 width="740" height="511" \>}}

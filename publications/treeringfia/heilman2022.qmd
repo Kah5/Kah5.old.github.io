@@ -1,0 +1,27 @@
+---
+title: "Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty"
+type: "article"
+author: "Heilman, K.A., Dietze, M.C., Arizpe, A.A., Aragon, J., Gray, A., Shaw, J.D., Finley, A.O., Klesse, S., DeRose, R.J., & Evans, M.E.K."
+year: "2022"
+publication: "Global Change Biology"
+doi: "http://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16038"
+code: "https://github.com/Kah5/pecan.git"
+dataset: "https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/FIA_PIPO_AZ_TREE_RING_DEC2021"
+pdf: "pdfpapers/Heilman_et_al_2022.pdf"
+data: "https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/FIA_PIPO_AZ_TREE_RING_DEC2021"
+toc: false
+categories:
+  - ecological forecasting
+  - Bayesian statistics
+  - tree ring
+  - forest inventory
+  - journal article
+---
+
+## Citation
+
+> Heilman, K. A., Dietze, M. C., Arizpe, A. A., Aragon, J., Gray, A., Shaw, J. D., Finley, A. O., Klesse, S., DeRose, R. J., & Evans, M. E. K. (2022). Ecological forecasting of tree growth: Regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty. Global Change Biology, 28(7), 2442--2460. https://doi.org/10.1111/gcb.16038
+
+## Abstract
+
+Robust ecological forecasting of tree growth under future climate conditions is critical to anticipate future forest carbon storage and flux. Here, we apply three ingredients of ecological forecasting that are key to improving forecast skill: data fusion, confronting model predictions with new data, and partitioning forecast uncertainty. Specifically, we present the first fusion of tree-ring and forest inventory data within a Bayesian state-space model at a multi-site, regional scale, focusing on Pinus ponderosa var. brachyptera in the southwestern US. Leveraging the complementarity of these two data sources, we parsed the ecological complexity of tree growth into the effects of climate, tree size, stand density, site quality, and their interactions, and quantified uncertainties associated with these effects. New measurements of trees, an ongoing process in forest inventories, were used to confront forecasts of tree diameter with observations, and evaluate alternative tree growth models. We forecasted tree diameter and increment in response to an ensemble of climate change projections, and separated forecast uncertainty into four different causes: initial conditions, parameters, climate drivers, and process error. We found a strong negative effect of fall--spring maximum temperature, and a positive effect of water-year precipitation on tree growth. Furthermore, tree vulnerability to climate stress increases with greater competition, with tree size, and at poor sites. Under future climate scenarios, we forecast increment declines of 22%--117%, while the combined effect of climate and size-related trends results in a 56%--91% decline. Partitioning of forecast uncertainty showed that diameter forecast uncertainty is primarily caused by parameter and initial conditions uncertainty, but increment forecast uncertainty is mostly caused by process error and climate driver uncertainty. This fusion of tree-ring and forest inventory data lays the foundation for robust ecological forecasting of aboveground biomass and carbon accounting at tree, plot, and regional scales, including iterative improvement of model skill.

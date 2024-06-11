@@ -1,0 +1,13 @@
+---
+pagetitle: "Projects"
+toc: false
+listing:
+    contents: "projects/*/**.qmd"
+    type: default
+    categories: false
+    sort: "date desc"
+    fields: [image, title]
+---
+
+::: {#articles}
+:::

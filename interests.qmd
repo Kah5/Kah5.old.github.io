@@ -1,0 +1,25 @@
+---
+title: "Research Intersts"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+
+---
+
+
+<h1> Forest Ecology </h1>
+Much of my research focuses on forecasting the responses of forest (and temperate savanna) systems to ongoing and future environmental changes. Understanding the fate of these systems in the future is critical to preserving the myriad of ecosystem services that forests provide, including carbon uptake and sequestration, biodiversity, and biophysical feedbacks. My research aims to understand and forecast how environmental drivers and ecological feedbacks within forest systems interact to promote carbon storage, as increased carbon storage can feedback an mitigate some of the effects of future climate change. I have explored the relative roles of species interactions , fire disturbance vegetation-feedbacks within savanna-forest systems, and how forest structure modifies tree sensitivity to climate and response to increased atmospheric CO2.
+
+
+<h1> Environmental Change </h1>
+
+Ecological systems face extensive environmental changes, including climate change, rising atmospheric CO2, changing fire regimes, and land use changes. My research is motivated by the need to forecast how ecological systems will respond to these concurrent changes, and potentially mitigate some of the worst effects. To do this, I look to past responses of forests to environmental changes in order to inform predictions of the future.
+
+Specifically, I quantify past responses of tree growth to rising CO2 and concurrent changes in climate over the 20th century using tree rings. We find that while rising CO2 may have a small positive effect on tree growth, this is cancelled out by a drastic decrease in tree growth in response to a warmer future. I have also explored the effects of past climate and vegetation-disturbance feedbacks, quantifying the subsequent land-use driven collapse of alternative stable states at the temperate savanna-forest boundary. Within the ecoregion scale, I quantified the relative roles that environmental gradients and species interactions play in determining species aboveground biomass distribution, allowing us to better predict changes in biomass due to both climatic change, and land-use driven the loss of species interactions.
+
+<h1> Ecological Forecasting </h1>
+We are currently facing and will continue to face drastic environmental changes that will undoubtedly change the functioning of our societal and natural ecosystems. While predicting how future systems will respond is critical, high uncertainty about future forecasts remains. Ecological forecasting allows us to understand the processes affecting ecosystem response, quantify the contribution of current/past processes on ecosystem response (with associated uncertainties), and based on that relationship predict system responses to future environmental change (with associated uncertainties).
+
+The process of making ecological forecasts will help us understand the range of future responses of ecological systems, quantify which aspects of the future are highly uncertain, and inform management decisions to promote resiliency. In my post-doctoral research, I am fusing tree-ring and forest inventory data to make forecasts about forest responses to climate change, and to identify forest management strategies (changes in forest stocking density, average tree size, etc.) that maximize resilience to extreme climate conditions.
+---

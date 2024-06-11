@@ -1,0 +1,26 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Migrating my website from Academic Hugo to Quarto"
+subtitle: "A naive guide"
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 2024-06-10T17:35:45-07:00
+lastmod: 2024-06-10T17:35:45-07:00
+featured: false
+draft: truee
+---
+
+## Finally caved and started from scratch (ish) with Quarto
+
+After several years of sporadically updating my website using Hugo and Academic hugo, I decided the past framework was too difficult to keep up with and started off with Quarto, which seems much more user friendly, with the preview options. I really liked the design and customization I had with my old website, so I hope to continue to customize my website with Quarto.
+
+## Getting to know Quatro
+
+## Messing around & using old content
+
+## Migrating old blog posts
+
+## Migrating publications

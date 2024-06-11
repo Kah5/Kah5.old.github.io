@@ -1,0 +1,28 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+title: "Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures."
+type: "article"
+author: Heilman, K.A.,  Trouet, V.,  Pederson, N., Belmecheri, S.,  Berke, M.A., McLachlan, J.S.
+year: "2021"
+publication: "Oecologia"
+doi: "https://link.springer.com/article/10.1007/s00442-021-04892-0"
+pdf: "pdfpapers/Heilman_et_al_2021.pdf"
+code: "https://github.com/Kah5/TreeRings.git"
+data: "https://portal.edirepository.org/nis/home.jsp"
+categories:
+  - Oaks
+  - Tree Ring
+  - Eastern US
+  - Drought Stress
+  - Growth
+  - Water Use Efficiency
+  - CO2 fertilization
+---
+
+## Citation
+
+> Heilman, K.A., Trouet, V., Pederson, N., Belmecheri, S., Berke, M.A., McLachlan, J.S., Increased water use efficiency leads to decreased precipitation sensitivity of tree growth, but is offset by high temperatures. 2021. Oecologia. https://doi.org/10.1007/s00442-021-04892-0.
+
+## Abstract:
+
+Both increases in temperature and changes in precipitation may limit future tree growth, but rising atmospheric CO2 could offset some of these stressors through increased plant Water Use Efficiency (WUE). The net balance between the negative impacts of climate change and positive effects of CO2 on tree growth is crucial for ecotones, where increased climate stress could drive mortality and shifts in range. Here, we quantify the effects of climate, stand structure, and rising CO2 on both annual tree-ring growth increment and intrinsic WUE (iWUE) at a savanna-forest boundary in the Upper Midwest United States. Taking a Bayesian hierarchical modelling approach, we find that plant iWUE increased by \~ 16--23% over the course of the twentieth century, but on average, tree-ring growth increments do not significantly increase. Consistent with higher iWUE under increased CO2 and recent wetting, we observe a decrease in sensitivity of tree growth to annual precipitation, leading to \~ 35--41% higher growth under dry conditions compared to trees of similar size in the past. However, an emerging interaction between summer maximum temperatures and annual precipitation diminishes the water-savings benefit under hot and dry conditions. This decrease in precipitation sensitivity, and the interaction between temperature and precipitation are strongest in open canopy microclimates, suggesting that stand structure may modulate response to future changes. Overall, while higher iWUE may provide some water savings benefits to growth under normal drought conditions, near-term future temperature increases combined with drought events could drive growth declines of about 50%.

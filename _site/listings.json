@@ -1,0 +1,45 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/ESA2020/ESA2020.html",
+      "/talks/SIAMMPE2020/SIAMMPE2020.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/PIED/index.html",
+      "/projects/PIPO data fusion/index.html",
+      "/projects/GJAM/index.html",
+      "/projects/MSS/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/PinusEdulis/PIED.html",
+      "/publications/treeringfia/heilman2022.html",
+      "/publications/oakstress/OakStress.html",
+      "/publications/TR_INV_Bioscience/FIATR.html",
+      "/publications/ncs/NCS.html",
+      "/publications/treeringco2/OakWUE.html",
+      "/publications/co2evidence/CO2.html",
+      "/publications/yellow_river/broderick.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/PIED_PNAS/index.html",
+      "/posts/State Space Model Workshop/index.html",
+      "/posts/Ecoforecasting Award/index.html",
+      "/posts/KVOA news article/index.html",
+      "/posts/HearstMedia/index.html",
+      "/posts/In the news/index.html",
+      "/posts/AGU2021/index.html",
+      "/posts/ESA2020/index.html",
+      "/posts/Welcome/index.html"
+    ]
+  }
+]

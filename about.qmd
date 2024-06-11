@@ -48,7 +48,7 @@ B.A in Biology, Environmental Studies Minor, 2012
 #### Personal Interests:
 
 -   trail running {{<fa person-running>}}
--   volleball {{< fa volleyball >}}
+-   volleyball {{< fa volleyball >}}
 -   travel {{< fa plane-departure >}}
 -   pottery {{<fa bowl-rice>}}
 :::
